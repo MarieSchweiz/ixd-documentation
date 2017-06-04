@@ -1,0 +1,80 @@
+{
+  "version" : 0,
+  "root" : {
+    "id" : "\/Y)Od@8=",
+    "fillColor" : "#fff",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "qJn2L*rM",
+        "__class" : "FrameNode",
+        "x" : -50,
+        "parentid" : "\/Y)Od@8=",
+        "width" : 600,
+        "y" : -22,
+        "deviceType" : null,
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "+}|o)gg@",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgba(0,170,255,0.5)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 289,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.3069444444444445,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "parentid" : "qJn2L*rM",
+            "borderRight" : 1,
+            "name" : null,
+            "height" : 80,
+            "borderWidth" : 1,
+            "top" : 246,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : null,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.1489583333333333,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "Rectangle",
+            "bottom" : null,
+            "width" : 85
+          }
+        ],
+        "height" : 792,
+        "fillColor" : "#ffffff",
+        "targetName" : null,
+        "name" : null
+      }
+    ]
+  }
+}
