@@ -6,7 +6,7 @@ Android = require 'androidRipple'
 
 flow = new FlowComponent
 flow.showNext(Intro)
-scroll.content.draggable.overdrag = false
+flow.scroll.content.draggable.overdrag = false
 
 # Different states for the prototypes interaction
 

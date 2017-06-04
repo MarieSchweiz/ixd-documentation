@@ -10,7 +10,7 @@ layout: default
 <iframe src="materials/sayit.framer/index.html" style="height:800px;width:100%;"></iframe>
 
 # What is "Framer MUC Agenda App" ?
-Objective: Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening. Let unrigerested designers know how amazing interaction design can be. Serve as example on how to dodumentate interaction design.
+Objective: Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening. Let unrigerested designers know how amazing interaction design can be. Serve as example on how to documentate interaction design.
 
 ## MVP definition
 With the first Prototype, we like to cover the most important information for attendees. Future editions can help to understand the topic we are talking about, allow them to archive and collect them for learning purposes and 
