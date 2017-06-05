@@ -4,10 +4,8 @@
 # Edit minima's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: default
+layout: start
 ---
-
-<iframe src="materials/sayit.framer/index.html" style="height:800px;width:100%;"></iframe>
 
 # What is "Framer MUC Agenda App" ?
 Objective: Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening. Let unrigerested designers know how amazing interaction design can be. Serve as example on how to documentate interaction design.
@@ -36,7 +34,14 @@ Pain & Gain
 #### Exemplary Userjourney
 
 
-### Components
+### Used Components
+
+* Framer Studio, Javascript / coffeescript
+* [Framer Speech Api](https://github.com/baiIey/framer-speech-api)
+* Framer Pointer module
+* Sketch for illustrations
+
+<iframe src="materials/sayit.framer/index.html" style="height:600px;width:50%;float:right;"></iframe>
 
 # Main concept
 With only 3 views, all informations should be wrapped and served interactive. Information is structured by importance so users have no trouble to get everything about the meetup with just two or three tabs. 
@@ -50,7 +55,7 @@ With only 3 views, all informations should be wrapped and served interactive. In
 4. How to catch up with attendees and where to find the next meetup or workshop
 
 ## What When and Where
-Objective: Inform the potential about What is happening (A meetup about framer) when (June 26th) and where (at google munich)
+Objective: Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
 
 ## Feature animation (Speech recognition)
 Objective: give users attendees a sneek peak about what framer can archive.

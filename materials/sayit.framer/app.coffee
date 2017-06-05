@@ -10,20 +10,20 @@ flow.scroll.content.draggable.overdrag = false
 
 # Different states for the prototypes interaction
 
-circle.states.add
+circle.states =
 	default: 
 		backgroundColor: "#fff"
 	listening:
 		backgroundColor: "#fff"
 
 isarvalley.opacity = 0
-isarvalley.states.add
+isarvalley.states =
 	default:
 		opacity: 0
 	Schedule:
 		opacity: 1
 
-circlepulse.states.add
+circlepulse.states =
 	default:
 		opacity: 1
 		scale: 1
