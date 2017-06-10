@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Why?
+permalink: /why/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Documentation is an underestimated discipline in almost every company. Allthough we know documentation is able to help a team, projects and companies in many ways. Yet we seem to ignore its power and keep postbone writing it to the very last moment. The "Framer Munich Meetup Agenda App" is an example of how to do documentation first and how documentation can:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+* Minimize Meetings
+* faster onboarding individuals
+* discover product touchpoints
+* empower general communication
+* Help making educated decisions
+* Prevent repeated knowledge sharing
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Bottom line: Documentation can help you to save a lot of time. For engineers its a neccessarity, for designers it isn't yet. I'd like to share why documentation made me a better designer. It takes bravery and guts to admit you know almost nothing about your project in the beginning. Your documentation will reflect that, bold and visible to you and others. (Agencie's don't feel comfortable about that. It doesn't fit to their selling or marketing mindset)
+
+
+ A well documented software is understandable for all departments and helps saving time and prevents misunderstandings. Besides that a documentation is able to hold thoughts, even opinions and provide comfort for every involved individual.
+

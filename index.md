@@ -41,9 +41,11 @@ Pain & Gain
 * Framer Pointer module
 * Sketch for illustrations
 
-<iframe src="materials/sayit.framer/index.html" style="height:600px;width:50%;float:right;"></iframe>
 
 # Main concept
+
+<iframe class="prototype-right" src="materials/sayit.framer/index.html"></iframe>
+
 With only 3 views, all informations should be wrapped and served interactive. Information is structured by importance so users have no trouble to get everything about the meetup with just two or three tabs. 
 
 1. First priority is **What, When and where**, so users are able to figure out their availability. 
@@ -55,10 +57,10 @@ With only 3 views, all informations should be wrapped and served interactive. In
 4. How to catch up with attendees and where to find the next meetup or workshop
 
 ## What When and Where
-Objective: Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
+**Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
 
 ## Feature animation (Speech recognition)
-Objective: give users attendees a sneek peak about what framer can archive.
+**Objective:** give users attendees a sneek peak about what framer can archive.
 
 https://github.com/baiIey/framer-speech-api
 
