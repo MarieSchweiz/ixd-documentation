@@ -41,6 +41,14 @@ header.site-header {
 
     .page-link-positive {
         color: #fff; 
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 1.2px;
+        margin-right: 20px;
+
+        &:last-child {
+        margin-right: 0px;
+        }
 
         &:visited{
             color: #ccc;
