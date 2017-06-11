@@ -8,10 +8,10 @@ layout: start
 ---
 
 # What is "Framer MUC Agenda App" ?
-Objective: Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening. Let unrigerested designers know how amazing interaction design can be. Serve as example on how to documentate interaction design.
+**Objective:** Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening on June 26th. Let new designers know how amazing interaction design can be. Serve as example on how to documentate interaction design.
 
 ## MVP definition
-With the first Prototype, we like to cover the most important information for attendees. Future editions can help to understand the topic we are talking about, allow them to archive and collect them for learning purposes and 
+The first Prototype will cover the most important information for attendees:
 
 * What (Framer Meetup Munich)
 * When (June 26th)
@@ -26,9 +26,13 @@ In Version 2, additional information could be useful:
 * Hashtag usage ( e.g. #FramerMUC )
 * Speaker information
 * Sponsor information
+* Workshop details & follow up information
+
 
 ### Target group and User analysis
+
 Munich based designer with or without coding background. Interested in interaction design and product documentation.
+
 Pain & Gain
 
 #### Exemplary Userjourney

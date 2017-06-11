@@ -59,10 +59,22 @@ header.site-header {
 .stage {
     width: 100%;
     height: 600px;
+    max-height: 600px;
     background: #111;
     position: relative;
     top: -112px;
     z-index: 0;
+    overflow: hidden;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    .stageproto {
+        align-self: center;
+        height: 1200px;
+        width: 500px; 
+    }
 }
 
 iframe {
@@ -75,3 +87,22 @@ iframe {
     float:right;
     margin-left:10%; 
 }   
+
+
+.header-link {
+  position: absolute;
+  left: -0.5em;
+  opacity: 0;
+
+  \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  \-moz-transition: opacity 0.2s ease-in-out 0.1s;
+  \-ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  opacity: 1;
+}

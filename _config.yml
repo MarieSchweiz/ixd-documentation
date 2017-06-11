@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Framer MUC Agenda App - Documentation
-email: your-email@domain.com
+email: marie@dvsty.com
 description: > # this means to ignore newlines until "baseurl:"
-  framerdocumentation is an easy way to deliver micro interactions in your project. Save time and work with technology such as framer.
+  Framer MUC Agenda app is an exemplary usecase how to do design documentation first.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ma_rylou
+github_username:  marieschweiz
 
 # Build settings
 markdown: kramdown
