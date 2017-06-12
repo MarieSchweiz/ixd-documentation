@@ -3033,7 +3033,7 @@
 
                   }
                 },
-                "name" : null,
+                "name" : "title",
                 "shadows" : [
                   {
                     "y" : 2,
@@ -3052,7 +3052,7 @@
                 "opacity" : 1,
                 "width" : 382,
                 "widthFactor" : null,
-                "targetName" : null,
+                "targetName" : "title",
                 "heightFactor" : null,
                 "editable" : false,
                 "visible" : true,

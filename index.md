@@ -63,23 +63,40 @@ With only 3 views, all informations should be wrapped and served interactive. In
 
 4. How to catch up with attendees and where to find the next meetup or workshop to meet all of us again.
 
+MISSING FLOW
+
 ## What When and Where
+
+<iframe class="prototype-right" src="https://framer.cloud/Sickv"></iframe>
+
 **Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
 
+As soon the App opens it is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should not trigger emotions such as stress or hurry. A calming mindset is recommended.
+
+
+
 ## Feature animation (Speech recognition)
+
+<iframe class="prototype-right" src="https://framer.cloud/QElto"></iframe>
 **Objective:** give users attendees a sneek peak about what framer can archive.
 
-https://github.com/baiIey/framer-speech-api
+Speech recognition is a highly demanded feature and framer is able to do that. Googles speech Api can be accessed via framer and listen to a users voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
 
-https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757
+By letting them go through with any voice input, framer is just showing off. accuracy isn't neccessary.
 
 ### Speech recognition
 all about the featured animation in this prototype...
 
 ## Schedule Overview
 
+<iframe class="prototype-right" src="https://framer.cloud/EXpCI"></iframe>
 **Objective:** Let the user read and decide fast about the meetups schedule and content and what he is interested in or should he/she join at all.
 
+Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
+
+## Framer debugging, Jekyll Build IGNORE
 
 <iframe class="prototype-right" src="https://framer.cloud/EXpCI"></iframe>
 <iframe class="prototype-left" src="materials/sayit-listview.framer/index.html"></iframe>
+
+## Deleriverables

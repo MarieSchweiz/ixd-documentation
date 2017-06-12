@@ -29,6 +29,14 @@ headering.states =
 		animationOptions:
 			time: 0.4
 
+title.states =
+	default:
+		scale:0.7
+		animationOptions:
+			time: 0.4
+	scrolled:
+		scale:1
+	
 isarvalley.states =
 	animationOptions:
 		time: 0.4

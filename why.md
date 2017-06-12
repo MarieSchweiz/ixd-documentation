@@ -40,7 +40,7 @@ Don't forget the objective first.
 
 https://jekyllrb.com
 https://www.bryanbraun.com/anchorjs/
-https://github.com/aewebsolutions/contentNavigator
+https://github.com/markserbol/tocible
 https://fonts.google.com/specimen/Roboto
 
 
