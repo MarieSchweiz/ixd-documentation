@@ -22,3 +22,15 @@ take a pen, grab your colleagues and figure out why you are there and why someon
 ### 1. The Objective
 
 I'd like to recommend writing down an objective of your project. It helps you to keep being focused and it takes a great to designer to figure that out (depending on the client).
+
+### 2. learn more about the User
+
+What users like to archive, their goals and so on. Talk to them observe them and anchor this observation to the top. It will help to fight against the unconsious mindset the product is designed for you.
+
+
+
+## Credits
+
+https://jekyllrb.com
+https://www.bryanbraun.com/anchorjs/
+

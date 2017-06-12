@@ -13,13 +13,13 @@ layout: start
 ## MVP definition
 The first Prototype will cover the most important information for attendees:
 
-* What (Framer Meetup Munich)
-* When (June 26th)
-* Where (at Google Germany)
-* What is happening (Schedule)
-* Who is speaking
-* Which workshops are available
-* What should every attendee bring
+* **What** (Framer Meetup Munich)
+* **When** (June 26th)
+* **Where** (at Google Germany)
+* **What** is happening (Schedule)
+* **Who** is speaking
+* **Which** workshops are available
+* **What** should every attendee bring
 
 In Version 2, additional information could be useful:
 
@@ -31,9 +31,14 @@ In Version 2, additional information could be useful:
 
 ### Target group and User analysis
 
-Munich based designer with or without coding background. Interested in interaction design and product documentation.
+Munich based designer with or without coding background. Interested in interaction design and product documentation. 
 
-Pain & Gain
+**Goals:** "learning more about framer", "level up their career profile" or "join the animation movement"
+
+**Painpoints:** "Not being able to code", "Social awkwardness" and "company regulations"
+
+**Jobstory: When a user** has limited ressources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers do an is it fitting to him, **so he can** open the app and decide is it something he or she should learn or invest time in.
+
 
 #### Exemplary Userjourney
 
@@ -74,9 +79,13 @@ https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757
 all about the featured animation in this prototype...
 
 ## Schedule Overview
+
 Objective: Let the user read and decide fast about the meetups schedule and content and what he is interested in.
 
 
+<iframe class="prototype-left" src="materials/sayit-listview.framer/index.html"></iframe>
+
+<iframe class="prototype-right" src="https://framer.cloud/EXpCI"></iframe>
 
 
 
