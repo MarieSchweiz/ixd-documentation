@@ -60,9 +60,24 @@ textBox = new Layer
 	html: "Speak now"
 	color: "#000"
 	width: Screen.width
-	backgroundColor: "fff"
+	backgroundColor: "none"
 	x: 24
 	y: 40
+
+textBox.style = 
+	"fontSize" : "44px"
+	
+textBox.states = 
+	hidden:
+		opacity: 0
+	visible:
+		opacity: 1
+
+agenda = new Layer
+	width: 700
+	height: 800
+	x: Align.center
+	y: 1250
 	
 	# Event listener when which state should trigger
 
@@ -75,4 +90,30 @@ textBox = new Layer
 			circlepulse.animate "scaleIt"
 
 # Register an android ripple for the circle button
+
+# speech part
+SpeechRecognition = window.SpeechRecognition or window.webkitSpeechRecognition
+
+#create a new recognizer
+recognizer = new SpeechRecognition
+
+#start producing results before the person has finished speaking
+recognizer.interimResults = true
+recognizer.lang = 'en-US'
+
+recognizer.onresult = (event) ->
+	result = event.results[event.resultIndex]
+	if result.isFinal
+		textBox.html = result[0].transcript
+		agenda.animate
+			properties:
+				y: 200
+			delay: 1.5
+	else
+		textBox.html = result[0].transcript
+		
+Intro.on Events.Click, ->
+	recognizer.start()
+	
+
 
