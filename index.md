@@ -53,17 +53,15 @@ Munich based designer with or without coding background. Interested in interacti
 
 # Main concept
 
-<iframe class="prototype-right" src="materials/sayit.framer/index.html"></iframe>
-
 With only 3 views, all informations should be wrapped and served interactive. Information is structured by importance so users have no trouble to get everything about the meetup with just two or three tabs. 
 
 1. First priority is **What, When and where**, so users are able to figure out their availability. 
 
-2. Feature transition is charging users emotionally to make them exited about the upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
+2. Feature transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
 
-3. Schedule overview with information for workshops (requirements)
+3. Schedule overview with **information to empower their decision**
 
-4. How to catch up with attendees and where to find the next meetup or workshop
+4. How to catch up with attendees and where to find the next meetup or workshop to meet all of us again.
 
 ## What When and Where
 **Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
@@ -80,12 +78,8 @@ all about the featured animation in this prototype...
 
 ## Schedule Overview
 
-Objective: Let the user read and decide fast about the meetups schedule and content and what he is interested in.
+**Objective:** Let the user read and decide fast about the meetups schedule and content and what he is interested in or should he/she join at all.
 
-
-<iframe class="prototype-left" src="materials/sayit-listview.framer/index.html"></iframe>
 
 <iframe class="prototype-right" src="https://framer.cloud/EXpCI"></iframe>
-
-
-
+<iframe class="prototype-left" src="materials/sayit-listview.framer/index.html"></iframe>

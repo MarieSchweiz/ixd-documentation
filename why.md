@@ -27,10 +27,23 @@ I'd like to recommend writing down an objective of your project. It helps you to
 
 What users like to archive, their goals and so on. Talk to them observe them and anchor this observation to the top. It will help to fight against the unconsious mindset the product is designed for you.
 
+### 3. Breaking down your project structure in understandable pieces
 
+### 4. Add stories, flows, journey or Jobs...
+Don't forget the objective first.
+
+### 5. Scribble and prototype
+
+## Summary
 
 ## Credits
 
 https://jekyllrb.com
 https://www.bryanbraun.com/anchorjs/
+https://github.com/aewebsolutions/contentNavigator
+https://fonts.google.com/specimen/Roboto
 
+
+### Overview of collaboration candidates
+
+Framer in its most powerful state is documented interaction design. Which software or cloud solution is able to provide that is [collected in a google sheet](https://docs.google.com/spreadsheets/d/15Pv5R7PUbzoQm3y5n6bMCyR3-5SzqoUOQqh8QOApy3U/edit#gid=0)
