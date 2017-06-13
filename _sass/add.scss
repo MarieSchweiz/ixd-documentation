@@ -1,6 +1,63 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,700');
 
 
+.flexcontainer {
+    display: flex;
+    flex-direction: row;
+
+
+
+    .flexcontent {
+    width: 70%;
+
+    @include media-query($on-desktop) {
+        width: 80%;
+        }
+
+    @include media-query($on-laptop) {
+        width: 80%;
+    }
+
+    .wrapper {
+        padding-left: 0;
+        margin-left: 200px;
+
+        @include media-query($on-desktop) {
+        margin-left: 0px;
+        }
+
+        @include media-query($on-laptop) {
+        margin-left: auto;
+        }
+    }
+
+    }
+
+    .sidenav {
+    width: 30%;
+
+    @include media-query($on-laptop) {
+        width: 20%;
+    }
+
+    }
+}
+
+.ref {
+    color:red;
+    position: absolute;
+    top: 100px;
+    left: 20%;
+
+    @include media-query($on-desktop) {
+        left: 10%;
+    }
+
+    @include media-query($on-laptop) {
+        left: 10%;
+    }
+}
+
 
 .page-content h2,.page-content h3 {
     margin-top: 50px;
@@ -42,6 +99,28 @@ header.site-header {
         
         &:visited{
             color: #ccc;
+        }
+    }
+
+    .wrapper {
+        max-width:70%;
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: $spacing-unit;
+        padding-left: $spacing-unit;
+
+          @include media-query($on-desktop) {
+          width: 80%;
+        }
+
+        @include media-query($on-laptop) {
+            max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+            max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+            margin-right: auto;
+            margin-left: auto;
+            padding-right: $spacing-unit;
+            padding-left: $spacing-unit;
+           
         }
     }
 
@@ -102,15 +181,6 @@ iframe {
     margin-right:5%;
     margin-bottom: 40px;
 }   
-
-
-
-.ref {
-    color:red;
-    position: absolute;
-    left: 10px;
-    top: 200px;
-}
 
 div.tocible {
     max-width: 150px; 
