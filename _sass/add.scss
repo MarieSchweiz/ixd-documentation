@@ -20,6 +20,9 @@ header.site-header {
     color: #fff;
     padding: $spacing-unit / 2
 }
+.page-content {
+    padding: 0;
+}
 
 .site-title {
     font-size: 28px;
@@ -110,6 +113,13 @@ iframe {
     top: 200px;
 }
 
+div.tocible {
+    max-width: 150px; 
+    top: 17px; 
+    bottom: auto; 
+    left: 10px;
+}
+
 div.tocible ul {
     list-style-image: none;
     list-style: none;
@@ -119,16 +129,18 @@ div.tocible ul {
     font-size: 14px;
 
     li {
-        margin: 20px 0;
 
         a{
             color:#111;
         }
 
     }
+    .tocible_heading {
+        margin-top: 30px;
+    }
 
     .tocible_subheading {
-        margin-left: 15px;
+        margin-top: 10px;
     }
 
     li.toc_scrolled a{

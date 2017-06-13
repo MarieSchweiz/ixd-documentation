@@ -65,7 +65,7 @@ With only 3 views, all informations should be wrapped and served interactive. In
 
 MISSING FLOW
 
-## What When and Where
+## Meetup info
 
 <iframe class="prototype-right" src="https://framer.cloud/Sickv"></iframe>
 
@@ -75,7 +75,7 @@ As soon the App opens it is asking you to say something. Tapping the voice butto
 
 
 
-## Feature animation (Speech recognition)
+## Feature animation
 
 <iframe class="prototype-right" src="https://framer.cloud/QElto"></iframe>
 **Objective:** give users attendees a sneek peak about what framer can archive.
