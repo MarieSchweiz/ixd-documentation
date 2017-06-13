@@ -120,5 +120,18 @@ div.tocible ul {
 
     li {
         margin: 20px 0;
+
+        a{
+            color:#111;
+        }
+
+    }
+
+    .tocible_subheading {
+        margin-left: 15px;
+    }
+
+    li.toc_scrolled a{
+        color:#4386fa;
     }
 }

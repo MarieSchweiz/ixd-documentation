@@ -29,7 +29,7 @@ In Version 2, additional information could be useful:
 * Workshop details & follow up information
 
 
-### Target group and User analysis
+## User analysis
 
 Munich based designer with or without coding background. Interested in interaction design and product documentation. 
 
@@ -94,12 +94,5 @@ all about the featured animation in this prototype...
 
 Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
 
-## Framer debugging, Jekyll Build IGNORE
 
-<iframe class="prototype-right" src="https://framer.cloud/EXpCI"></iframe>
-
-```
-<iframe class="prototype-left" src="materials/sayit-listview.framer/index.html"></iframe>
-```
-
-## Deleriverables
+# Deleriverables
