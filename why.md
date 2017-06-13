@@ -39,6 +39,8 @@ Don't forget the objective first.
 
 ## Credits
 
+Silvia Bormüller for the help, being a good colleague and partner in crime.
+
 https://jekyllrb.com
 https://www.bryanbraun.com/anchorjs/
 https://github.com/markserbol/tocible

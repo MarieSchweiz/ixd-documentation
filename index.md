@@ -58,13 +58,13 @@ With only 3 views, all informations should be wrapped and served interactive. In
 
 MISSING FLOW
 
-### Meetup info
+### Meetup information
 
 <iframe class="prototype-right" src="https://framer.cloud/Sickv"></iframe>
 
 **Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
 
-As soon the App opens it is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should not trigger emotions such as stress or hurry. A calming mindset is recommended.
+As soon the App opens a button is offering speech input. By tapping our [feature animation](#feature-animation) is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should not trigger emotions such as stress or hurry. A calming mindset is recommended.
 
 
 
@@ -77,8 +77,6 @@ Speech recognition is a highly demanded feature and framer is able to do that. G
 
 By letting them go through with any voice input, framer is just showing off. accuracy isn't neccessary.
 
-### Speech recognition
-all about the featured animation in this prototype...
 
 ### Schedule Overview
 
@@ -89,3 +87,7 @@ Has a user said something, the meetup schedule will slide in. A scrollview allow
 
 
 ## Deleriverables
+
+The idea is to have a prototype available. By definition this project is in a published state. Other projects might not and measurements are in order.
+
+### Measurements
