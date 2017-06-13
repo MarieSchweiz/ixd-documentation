@@ -17,6 +17,9 @@
     @include media-query($on-laptop) {
         width: 80%;
     }
+    @include media-query($on-palm) {
+        width: 100%;
+    }
 
     .wrapper {
         padding-left: 0;
@@ -29,6 +32,10 @@
         @include media-query($on-laptop) {
         margin-left: auto;
         }
+
+        @include media-query($on-palm) {
+        margin: 0 20px;
+        }
     }
 
     }
@@ -38,6 +45,9 @@
 
     @include media-query($on-laptop) {
         width: 20%;
+    }
+     @include media-query($on-palm) {
+        display: none;
     }
 
     }
@@ -54,7 +64,7 @@
     }
 
     @include media-query($on-laptop) {
-        left: 10%;
+        left: 2%;
     }
 }
 
@@ -172,6 +182,11 @@ iframe {
     float:right;
     margin-left:5%;
     margin-bottom: 40px;
+
+    @include media-query($on-palm) {
+        width: 100%;
+        float: none;
+    }
 }   
 
 .prototype-left {
@@ -180,6 +195,11 @@ iframe {
     float:left;
     margin-right:5%;
     margin-bottom: 40px;
+
+    @include media-query($on-palm) {
+        width: 100%;
+        float: none;
+    }
 }   
 
 div.tocible {
@@ -187,6 +207,10 @@ div.tocible {
     top: 17px; 
     bottom: auto; 
     left: 20px;
+
+    @include media-query($on-palm) {
+        display: none;
+    }
 }
 
 div.tocible ul {
