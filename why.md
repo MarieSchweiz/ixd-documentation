@@ -36,12 +36,18 @@ Don't forget the objective first.
 
 ## Summary
 
+
 ## Credits
 
 https://jekyllrb.com
 https://www.bryanbraun.com/anchorjs/
 https://github.com/markserbol/tocible
 https://fonts.google.com/specimen/Roboto
+
+* Framer Studio, Javascript / coffeescript
+* [Framer Speech Api](https://github.com/baiIey/framer-speech-api)
+* Framer Pointer module
+* Sketch for illustrations
 
 
 ### Overview of collaboration candidates

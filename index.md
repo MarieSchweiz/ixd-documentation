@@ -29,7 +29,7 @@ In Version 2, additional information could be useful:
 * Workshop details & follow up information
 
 
-## User analysis
+### User group
 
 Munich based designer with or without coding background. Interested in interaction design and product documentation. 
 
@@ -43,15 +43,8 @@ Munich based designer with or without coding background. Interested in interacti
 #### Exemplary Userjourney
 
 
-### Used Components
 
-* Framer Studio, Javascript / coffeescript
-* [Framer Speech Api](https://github.com/baiIey/framer-speech-api)
-* Framer Pointer module
-* Sketch for illustrations
-
-
-# Main concept
+## Main concept
 
 With only 3 views, all informations should be wrapped and served interactive. Information is structured by importance so users have no trouble to get everything about the meetup with just two or three tabs. 
 
@@ -65,7 +58,7 @@ With only 3 views, all informations should be wrapped and served interactive. In
 
 MISSING FLOW
 
-## Meetup info
+### Meetup info
 
 <iframe class="prototype-right" src="https://framer.cloud/Sickv"></iframe>
 
@@ -75,7 +68,7 @@ As soon the App opens it is asking you to say something. Tapping the voice butto
 
 
 
-## Feature animation
+### Feature animation
 
 <iframe class="prototype-right" src="https://framer.cloud/QElto"></iframe>
 **Objective:** give users attendees a sneek peak about what framer can archive.
@@ -87,7 +80,7 @@ By letting them go through with any voice input, framer is just showing off. acc
 ### Speech recognition
 all about the featured animation in this prototype...
 
-## Schedule Overview
+### Schedule Overview
 
 <iframe class="prototype-right" src="https://framer.cloud/EXpCI"></iframe>
 **Objective:** Let the user read and decide fast about the meetups schedule and content and what he is interested in or should he/she join at all.
@@ -95,4 +88,4 @@ all about the featured animation in this prototype...
 Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
 
 
-# Deleriverables
+## Deleriverables

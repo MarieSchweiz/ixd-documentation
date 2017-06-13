@@ -19,8 +19,8 @@ anchors.add('.anchored');
 anchors.add();
 
 $('.Contents').tocible({
-    heading: 'h1', //[selector], the first level heading
-    subheading: 'h2', //[selector], the second level heading
+    heading: 'h2', //[selector], the first level heading
+    subheading: 'h3', //[selector], the second level heading
     reference:'.ref', //[selector], reference element for horizontal positioning
     title: '', //[selector or string], title of the menu
     hash: false, //[boolean], setting true will enable URL hashing on click
