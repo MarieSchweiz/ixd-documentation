@@ -6,7 +6,6 @@ circle.states =
 	listening:
 		backgroundColor: "#fff"
 
-
 circlepulse.states =
 	default:
 		opacity: 1
@@ -65,8 +64,9 @@ textBox = new Layer
 	y: 40
 
 textBox.style = 
-	"fontSize" : "44px"
-	
+	"fontSize":"20px"
+	"color" : "#fff"
+
 textBox.states = 
 	hidden:
 		opacity: 0
