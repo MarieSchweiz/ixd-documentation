@@ -11,7 +11,7 @@ layout: start
 **Objective:** Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening on June 26th. Let new designers know how amazing interaction design can be. Serve as example on how to documentate interaction design.
 
 ## MVP definition
-The first Prototype will cover the most important information for attendees:
+The first Prototype will cover the most important information for attendees and one featured animation:
 
 * **What** (Framer Meetup Munich)
 * **When** (June 26th)
@@ -37,7 +37,9 @@ Munich based designer with or without coding background. Interested in interacti
 
 **Painpoints:** "Not being able to code", "Social awkwardness" and "company regulations"
 
-**Jobstory: When a user** has limited ressources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers do an is it fitting to him, **so he can** open the app and decide is it something he or she should learn or invest time in.
+**Userstory:** Annie has never wrote code before but she is used to designing mobile applications. Her colleagues demanding more detailed animations and **She wants** to create them in time **so that** her product becomes more polished.
+
+**Jobstory: When a user** has limited ressources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers are doing, **so he can** decide for himself about learning or investing time in framer.
 
 
 #### Exemplary Userjourney
