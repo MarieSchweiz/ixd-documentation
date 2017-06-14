@@ -24,7 +24,7 @@ PROTOTYPE GOES HERE
 
 ### 1. Framer meetup information
 
-<img src="/materials/Meetupintro.gif" class="imgright"/>
+<img src="./materials/Meetupintro.gif" class="imgright"/>
 **Conclusion:** Asking about how good the button is we have learned it is okay because the screen is very empty and nothing else to tap on. None of our testers tried to tap the title.
 
 * Readability and contrast wasn't an issue...and so on
@@ -34,4 +34,4 @@ open questions: we don't know about dropouts, is blue a likeble color? is the sk
 
 Maybe drop your interview part about this screen here
 
-<img src="/materials/testing-example.jpg" class="imgfit"/> 
+<img src="./materials/testing-example.jpg" class="imgfit"/> 
