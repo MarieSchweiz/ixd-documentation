@@ -25,6 +25,7 @@ PROTOTYPE GOES HERE
 ### 1. [Framer meetup information](https://marieschweiz.github.io/ixd-documentation/#meetup-information)
 
 <img src="https://marieschweiz.github.io/ixd-documentation/materials/Meetupintro.gif" class="imgright"/>
+
 **Conclusion:** Asking about how good the button is we have learned it is okay because the screen is very empty and nothing else to tap on. None of our testers tried to tap the title.
 
 * Readability and contrast wasn't an issue...and so on
@@ -34,4 +35,7 @@ open questions: we don't know about dropouts, is blue a likeble color? is the sk
 
 Maybe drop your interview script about this screen here
 
-<img src="https://marieschweiz.github.io/ixd-documentation/materials/testing-example.jpg" class="imgfit"/> 
+
+<img src="https://marieschweiz.github.io/ixd-documentation/materials/Meetupintro-analysis.png" class="imgright"/>
+
+<img src="https://marieschweiz.github.io/ixd-documentation/materials/testing-example.jpg" class="imgleft"/> 
