@@ -186,6 +186,16 @@ header.site-header {
     }
 }
 
+.imgfit {
+    width: 100%;
+}
+.imgright {
+    width: 100%;
+    width:39%;
+    float:right;
+    margin-left:5%;
+}
+
 iframe {
     border: 1px solid #f2f2f2;
 }

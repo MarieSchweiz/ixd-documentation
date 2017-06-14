@@ -8,7 +8,13 @@ The First release for the Framer Meetup munich App prototype will happen on June
 
 ## Testing opportunities
 
-The prototype has a few testing opportunities. Meetup information could be too boring or schedule information not clear enough. Marie will use a chance and talk on June 14th to attendees about that and document her findings here.
+The prototype has a few testing opportunities. 
+
+* Meetup information could be too boring or schedule information not clear enough. 
+* Missing beginning time in the title could be very confusing
+* Voice button doesn't appear enough as a button which has to be pressed
+
+Marie will use a chance and talk on June 14th to attendees about that and document her findings here.
 
 Findings will be linked to improvements.
 

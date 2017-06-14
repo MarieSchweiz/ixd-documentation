@@ -66,7 +66,7 @@ MISSING FLOW
 
 **Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
 
-As soon the App opens a button is offering speech input. By tapping our [feature animation](#feature-animation) is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should not trigger emotions such as stress or hurry. A calming mindset is recommended.
+As soon the App opens a button is offering speech input. By tapping our [feature animation](#feature-animation) is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
 
 
 

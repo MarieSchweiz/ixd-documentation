@@ -642,7 +642,7 @@
                   {
                     "__class" : "TextNode",
                     "locked" : false,
-                    "centerAnchorX" : 0.5532687651331719,
+                    "centerAnchorX" : 0.6041162227602905,
                     "parentid" : "3,d*$J*K",
                     "rotation" : 0,
                     "top" : 42,
@@ -653,32 +653,32 @@
                           "depth" : 0,
                           "inlineStyleRanges" : [
                             {
-                              "length" : 22,
+                              "length" : 30,
                               "style" : "LETTERSPACING:0",
                               "offset" : 0
                             },
                             {
-                              "length" : 22,
+                              "length" : 30,
                               "style" : "LINEHEIGHT:1.2",
                               "offset" : 0
                             },
                             {
-                              "length" : 22,
+                              "length" : 30,
                               "style" : "ALIGN:left",
                               "offset" : 0
                             },
                             {
-                              "length" : 22,
+                              "length" : 30,
                               "style" : "SIZE:17",
                               "offset" : 0
                             },
                             {
-                              "length" : 22,
+                              "length" : 30,
                               "style" : "FONT:Roboto-Medium",
                               "offset" : 0
                             },
                             {
-                              "length" : 22,
+                              "length" : 30,
                               "style" : "COLOR:rgb(48, 48, 48)",
                               "offset" : 0
                             }
@@ -696,7 +696,7 @@
                               "COLOR:rgb(48, 48, 48)"
                             ]
                           },
-                          "text" : "Workshop for Beginners",
+                          "text" : "30 min. Workshop for Beginners",
                           "key" : "fm4e6",
                           "type" : "unstyled"
                         }
@@ -721,15 +721,15 @@
                     "constraintsLocked" : true,
                     "left" : 125,
                     "bottom" : null,
-                    "height" : 26,
+                    "height" : 30,
                     "opacity" : 1,
-                    "width" : 207,
+                    "width" : 249,
                     "widthFactor" : null,
                     "targetName" : null,
                     "heightFactor" : null,
                     "editable" : false,
                     "visible" : true,
-                    "centerAnchorY" : 0.2412280701754386,
+                    "centerAnchorY" : 0.25,
                     "autoSize" : false
                   },
                   {
@@ -789,7 +789,7 @@
                               "SIZE:17"
                             ]
                           },
-                          "text" : "20:15 - 21:00",
+                          "text" : "20:15 - 20:45",
                           "key" : "fm4e6",
                           "type" : "unstyled"
                         }
@@ -2809,7 +2809,7 @@
             "name" : "schedule",
             "height" : 1454,
             "borderWidth" : 1,
-            "top" : 245.5,
+            "top" : 247.5,
             "borderTop" : 1,
             "radiusTopRight" : 0,
             "borderBottom" : 1,
@@ -2817,13 +2817,13 @@
             "constraintsLocked" : false,
             "right" : -10,
             "radiusPerCorner" : false,
-            "centerAnchorY" : 0.5528709494030699,
+            "centerAnchorY" : 0.5540079590676521,
             "visible" : true,
             "borderLeft" : 1,
             "heightFactor" : null,
             "radiusTopLeft" : 0,
             "targetName" : "schedule",
-            "bottom" : 59.5,
+            "bottom" : 57.5,
             "width" : 421
           },
           {
