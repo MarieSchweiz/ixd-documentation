@@ -44,6 +44,8 @@ Munich based designer with or without coding background. Interested in interacti
 
 #### Exemplary Userjourney
 
+<img src="https://marieschweiz.github.io/ixd-documentation/materials/Userjourney-01.png" class="imgfit"/> 
+
 
 
 ## Main concept

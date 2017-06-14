@@ -22,7 +22,7 @@ PROTOTYPE GOES HERE
 
 ## Findings 
 
-### 1. Framer meetup information
+### 1. [Framer meetup information](https://marieschweiz.github.io/ixd-documentation/#meetup-information)
 
 <img src="https://marieschweiz.github.io/ixd-documentation/materials/Meetupintro.gif" class="imgright"/>
 **Conclusion:** Asking about how good the button is we have learned it is okay because the screen is very empty and nothing else to tap on. None of our testers tried to tap the title.
@@ -32,6 +32,6 @@ PROTOTYPE GOES HERE
 
 open questions: we don't know about dropouts, is blue a likeble color? is the sky green...
 
-Maybe drop your interview part about this screen here
+Maybe drop your interview script about this screen here
 
 <img src="https://marieschweiz.github.io/ixd-documentation/materials/testing-example.jpg" class="imgfit"/> 

@@ -12,7 +12,7 @@
         "x" : 515,
         "parentid" : "pHSQH5L!",
         "width" : 411,
-        "y" : -291.5,
+        "y" : -291,
         "deviceType" : null,
         "children" : [
           {
@@ -2809,7 +2809,7 @@
             "name" : "schedule",
             "height" : 1454,
             "borderWidth" : 1,
-            "top" : 247.5,
+            "top" : 248,
             "borderTop" : 1,
             "radiusTopRight" : 0,
             "borderBottom" : 1,
@@ -2817,13 +2817,13 @@
             "constraintsLocked" : false,
             "right" : -10,
             "radiusPerCorner" : false,
-            "centerAnchorY" : 0.5540079590676521,
+            "centerAnchorY" : 0.5542922114837976,
             "visible" : true,
             "borderLeft" : 1,
             "heightFactor" : null,
             "radiusTopLeft" : 0,
             "targetName" : "schedule",
-            "bottom" : 57.5,
+            "bottom" : 57,
             "width" : 421
           },
           {
