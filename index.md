@@ -8,9 +8,24 @@ layout: start
 ---
 
 # What is "Framer MUC Agenda App" ?
-**Objective:** Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening on June 26th. Let new designers know how amazing interaction design can be. Serve as example on how to documentate interaction design.
+**Objective:** Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening on June 26th. Let new designers know how amazing interaction design can be. Serve as example on [why and how](why/) to documentate interaction design.
 
-## MVP definition
+## Main concept
+
+With only 3 views, all informations about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/), should be available and served interactive and enjoyable as Framer prototype. Information is structured by importance, so users have no trouble to get everything about the meetup with just two or three touches. 
+
+1. First priority is **What, When and where**, so users are able to figure out their availability. 
+
+2. Feature transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
+
+3. Schedule overview with **information to empower their decision**
+
+4. How to catch up with attendees and where to find the next meetup or workshop to meet all of us again.
+
+MISSING FLOW
+CONNECTED PROTOTYPE GOES HERE
+
+### MVP definition
 The first Prototype will cover the most important information for attendees and one featured animation:
 
 * **What** (Framer Meetup Munich)
@@ -48,20 +63,7 @@ Munich based designer with or without coding background. Interested in interacti
 
 
 
-## Main concept
-
-With only 3 views, all informations should be wrapped and served interactive. Information is structured by importance so users have no trouble to get everything about the meetup with just two or three tabs. 
-
-1. First priority is **What, When and where**, so users are able to figure out their availability. 
-
-2. Feature transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
-
-3. Schedule overview with **information to empower their decision**
-
-4. How to catch up with attendees and where to find the next meetup or workshop to meet all of us again.
-
-MISSING FLOW
-CONNECTED PROTOTYPE GOES HERE
+## Features
 
 
 ### Meetup information
