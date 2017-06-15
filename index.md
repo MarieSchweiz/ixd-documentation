@@ -22,7 +22,9 @@ With only 3 views, all informations about the upcoming [Framer Munich Meetup](ht
 
 4. How to catch up with attendees and where to find the next meetup or workshop to meet all of us again.
 
-MISSING FLOW
+<img src="materials/framer-app-flow.png" class="imgfit"/> 
+
+
 CONNECTED PROTOTYPE GOES HERE
 
 ### MVP definition
