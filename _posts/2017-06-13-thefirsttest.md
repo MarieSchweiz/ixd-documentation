@@ -20,8 +20,6 @@ All three characters are fictional, the test too - usually i'm saying how we hav
 * framer speech recognition
 * framer meetup schedule
 
-<img src="/materials/framer-app-flow.png" class="imgfit"/> 
-
 CONNECTED PROTOTYPE GOES HERE
 
 ## Findings 
