@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "First Testing"
+title: "First Testing, June '17"
 categories: misc
 description: Testing the munich agenda App for the very first time with 3 testers in a company environment.
-toc: yes
+toc: true
 ---
 
 Today we are testing with Katie, Brian and Orban. All testers never seen the app before and are based in Munich.
@@ -41,3 +41,4 @@ Maybe drop your interview script about this screen here
 <img src="https://marieschweiz.github.io/ixd-documentation/materials/testing-example.jpg" class="imgleft"/> 
 
 <img src="https://marieschweiz.github.io/ixd-documentation/materials/Meetupintro-analysis.png" class="imgright"/>
+
