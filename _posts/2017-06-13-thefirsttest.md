@@ -30,12 +30,12 @@ PROTOTYPE GOES HERE
 
 * Readability and contrast wasn't an issue...and so on
 * Users loved the pulse animation and didn't felt stressed
+* Users read the title and did not missed any information (e.g. begin)
 
 open questions: we don't know about dropouts, is blue a likeble color? is the sky green...
 
 Maybe drop your interview script about this screen here
 
+<img src="https://marieschweiz.github.io/ixd-documentation/materials/testing-example.jpg" class="imgleft"/> 
 
 <img src="https://marieschweiz.github.io/ixd-documentation/materials/Meetupintro-analysis.png" class="imgright"/>
-
-<img src="https://marieschweiz.github.io/ixd-documentation/materials/testing-example.jpg" class="imgleft"/> 

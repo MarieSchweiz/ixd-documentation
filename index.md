@@ -61,6 +61,8 @@ With only 3 views, all informations should be wrapped and served interactive. In
 4. How to catch up with attendees and where to find the next meetup or workshop to meet all of us again.
 
 MISSING FLOW
+CONNECTED PROTOTYPE GOES HERE
+
 
 ### Meetup information
 
