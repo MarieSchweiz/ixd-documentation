@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: list
 title: Changelog
 permalink: /changelog/
 ---
@@ -13,8 +13,9 @@ permalink: /changelog/
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+        {% if post.description %}
+        <p>{{ post.description }}</p>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>

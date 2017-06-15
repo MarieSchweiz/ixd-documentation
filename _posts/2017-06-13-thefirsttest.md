@@ -2,6 +2,8 @@
 layout: post
 title: "First Testing"
 categories: misc
+description: Testing the munich agenda App for the very first time with 3 testers in a company environment.
+toc: yes
 ---
 
 Today we are testing with Katie, Brian and Orban. All testers never seen the app before and are based in Munich.
@@ -18,7 +20,7 @@ All three characters are fictional, the test too - usually i'm saying how we hav
 * framer speech recognition
 * framer meetup schedule
 
-PROTOTYPE GOES HERE
+CONNECTED PROTOTYPE GOES HERE
 
 ## Findings 
 

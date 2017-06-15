@@ -1,6 +1,21 @@
 ---
 layout: default
 ---
+{% if post.toc == yes %}
+  <div class="Posting-content">
+  
+  <div class="sidenav">
+        <div class="ref">
+        <!-- 
+          This element will be the reference 
+          for the navigation list positioning, 
+          especially on RWD, so position well 
+          to your liking. 
+        -->
+        </div>
+  </div>
+    
+{% endif %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -23,3 +38,7 @@ layout: default
     {% include disqus_comments.html %}
   {% endif %}
 </article>
+
+{% if post.toc == yes %}
+  </div>
+{% endif %}
