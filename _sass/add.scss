@@ -178,7 +178,7 @@ header.site-header {
     align-content: center;
     flex-wrap: wrap;
     flex-direction: column-reverse;
-    background-image: url(assets/stage-bg.png);
+    background-image: url(/assets/stage-bg.png);
     
 
     .stageproto {
@@ -188,12 +188,11 @@ header.site-header {
     }
 
     img {
-        margin: auto;
+        margin: 0 auto;
         height: 500px;
     }
 
     .stagenote {
-        width: 100%;
         padding: 20px;
         background-color: #4386FA;
         color: #fff;
@@ -306,4 +305,9 @@ ul.postlist {
         margin: 0;
         }
     }
+}
+
+
+.footwrapper {
+    padding: 30px;
 }

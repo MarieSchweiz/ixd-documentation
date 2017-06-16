@@ -6,7 +6,7 @@ description: Munich Agenda App first realese.
 toc: false
 ---
 
-The First release for the Framer Meetup munich App prototype will happen on June 14th in Berlin at a Meetup. Marie Schweiz will speak about its existance and why we do documentation first.
+The First release for the Framer Meetup munich App prototype will happen on [June 14th in Berlin at a Meetup](https://www.meetup.com/de-DE/berlin-lean-prototyping/events/239280149/). Marie Schweiz will speak about its existance and [why and how](https://marieschweiz.github.io/ixd-documentation/why/) we do documentation first.
 
 ## Testing opportunities
 

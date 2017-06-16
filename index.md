@@ -65,6 +65,14 @@ Munich based designer with or without coding background. Interested in interacti
 
 ## Features
 
+Documentation Note: depending on your project size or complexity it might be suitable to have for each feature one document. When splitted i'm not going through a couple of definitions again
+
+* Objective
+* MVP or Version
+* Appearance (where is it anchored in your mental model)
+* Scenario 1
+* Scenario 2
+* Scenario 3... and so on...
 
 ### Meetup information
 
@@ -72,7 +80,7 @@ Munich based designer with or without coding background. Interested in interacti
 
 **Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
 
-As soon the App opens a button is offering speech input. By tapping our [feature animation](#feature-animation) is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
+Scenario: As soon the App opens a button is offering speech input. By tapping our [feature animation](#feature-animation) is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
 
 Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine!
 
