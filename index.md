@@ -111,6 +111,10 @@ To be tested: Is a short workshop description enough to convince a user to join 
 
 ### Scrollable header
 
+Objective: Giving a sponsor the prominent place of a fab we like to ecourage companies to host a Framer Meetup.
+
+In a non scrolled state, the sponsor Button is looking prominent and big with 110 x 110 dp. Scrolling the list will minimize the button and move him to the right or left of the Top Bar.
+
 
 
 ## Deleriverables
