@@ -13,11 +13,11 @@ Documentation is an underestimated discipline in almost every company. Allthough
 * Help making educated decisions
 * Prevent repeated knowledge sharing
 
-Bottom line: Documentation can help you to save a lot of time. For engineers its a neccessarity, for designers it isn't yet. Documentation made me a better designer. It takes bravery and guts to admit you know almost nothing about your project in the beginning. Your documentation will reflect that, bold and visible to you and others. 
+Bottom line: Documentation can help you saving a lot of time. For engineers its a neccessarity, for designers it isn't yet. Documentation made me a better designer. It takes bravery and guts to admit you know almost nothing about your project in the beginning. Your documentation will reflect that, bold and visible to you and others.  
 
 ## Get started
 
-Find a platform. Which software or cloud solution is able to provide that is [collected in a google sheet](https://docs.google.com/spreadsheets/d/15Pv5R7PUbzoQm3y5n6bMCyR3-5SzqoUOQqh8QOApy3U/edit#gid=0)
+Find a platform. Which software or cloud solution is able to provide that is [collected in a google sheet](https://docs.google.com/spreadsheets/d/15Pv5R7PUbzoQm3y5n6bMCyR3-5SzqoUOQqh8QOApy3U/edit#gid=0) If you know a suitable candidate, please don't hesitate to get in touch.
 
 CLONE THIS REPO - on github
 
@@ -34,12 +34,12 @@ I'd like to recommend writing down an objective of your project. It helps you to
 
 What users like to archive, their goals and so on. Talk to them observe them and anchor this observation to the top. It will help to fight against the unconsious mindset the product is designed for you.
 
-### 3. Breaking down your project structure in understandable pieces
+### 3. Breaking down your project
 
 ### 4. Add stories, flows, journey or Jobs...
 Don't forget the objective first.
 
-### 5. Scribble and prototype
+### 5. test
 
 ## Summary
 

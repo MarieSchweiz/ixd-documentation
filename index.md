@@ -90,9 +90,11 @@ Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/
 <iframe class="prototype-right" src="https://framer.cloud/QElto"></iframe>
 **Objective:** give users attendees a sneek peak about what framer can archive.
 
+Scenario: A User say's something and the speech recognition will display what he said, wait for 10 seconds and provide the schedule overview.
+
 Speech recognition is a highly demanded feature and framer is able to do that. Googles speech Api can be accessed via framer and listen to a users voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
 
-By letting them go through with any voice input, framer is just showing off. accuracy isn't neccessary.
+To be tested: By letting them go through with any specific voice input, framer is just showing off. Our theory: accuracy isn't neccessary to engage a user.
 
 
 ### Schedule Overview
@@ -100,7 +102,15 @@ By letting them go through with any voice input, framer is just showing off. acc
 <iframe class="prototype-right" src="https://framer.cloud/EXpCI"></iframe>
 **Objective:** Let the user read and decide fast about the meetups schedule and content and what he is interested in or should he/she join at all.
 
-Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
+Scenario: Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
+
+To be tested: Is a short workshop description enough to convince a user to join or should it be more detailed. Will users understand the necessarity of a macbook?
+
+
+## Patterns
+
+### Scrollable header
+
 
 
 ## Deleriverables

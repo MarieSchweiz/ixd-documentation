@@ -89,6 +89,15 @@
     display: block;
 }
 
+.page-content {
+
+    .post-title {
+        text-align: center;
+        margin: 50px 0;
+
+    }
+}
+
 .site-nav .page-link {
     font-size: 14px;
     text-transform: uppercase;
@@ -104,7 +113,7 @@ header.site-header {
     padding: 0;
 }
 
-.site-title {
+a.site-title {
     font-size: 28px;
     font-weight: 200;
     line-height: 41px;
@@ -112,6 +121,19 @@ header.site-header {
     margin-bottom: 0;
     float: left;
     max-width: 34vw;
+
+    span {
+        
+        @include media-query($on-palm) {
+        display: none;
+        }
+    }
+
+    @include media-query($on-palm) {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 23px;
+        }
 }
 
 .header-positive {
