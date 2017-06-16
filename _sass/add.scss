@@ -122,6 +122,11 @@ a.site-title {
     float: left;
     max-width: 34vw;
 
+    &:hover {
+        text-decoration: none;
+        opacity: 0.8;
+    }
+
     span {
         
         @include media-query($on-palm) {

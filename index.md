@@ -14,11 +14,11 @@ layout: start
 
 With only 3 views, all informations about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/), should be available and served interactive and enjoyable as Framer prototype. Information is structured by importance, so users have no trouble to get everything about the meetup with just two or three touches. 
 
-1. Meetup Info: First priority is **What, When and where**, so users are able to figure out their availability. 
+1. [Meetup Information](#meetup-information): First priority is **What, When and where**, so users are able to figure out their availability. 
 
-2. Speech Feature: A transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
+2. [Feature animation](#feature-animation): A transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
 
-3. Schedule overview: **information to empower their decision**
+3. [Schedule Overview](#schedule-overview): **information to empower their decision**
 
 <img src="materials/framer-app-flow.png" class="imgfit"/> 
 
@@ -54,7 +54,7 @@ Munich based designer with or without coding background. Interested in interacti
 
 **Userstory:** Annie has never wrote code before but she is used to designing mobile applications. Her colleagues demanding more detailed animations and **She wants** to create them in time **so that** her product becomes more polished.
 
-**Jobstory: When a user** has limited ressources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers are doing, **so he can** decide for himself about learning or investing time in framer.
+**Jobstory: When a user** has limited ressources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers are doing, **so he can** decide about learning or investing time in framer.
 
 
 #### Exemplary Userjourney
@@ -74,7 +74,7 @@ Documentation Note: depending on your project size or complexity it might be sui
 * Scenario 2
 * Scenario 3... and so on...
 
-### Meetup information
+### Meetup Information
 
 <iframe class="prototype-right" src="https://framer.cloud/Sickv"></iframe>
 
@@ -85,7 +85,7 @@ Scenario: As soon the App opens a button is offering speech input. By tapping ou
 Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine!
 
 
-### Feature animation
+### Feature Animation
 
 <iframe class="prototype-right" src="https://framer.cloud/QElto"></iframe>
 **Objective:** give users attendees a sneek peak about what framer can archive.

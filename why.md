@@ -23,23 +23,45 @@ CLONE THIS REPO - on github
 
 
 
-## How to start a design documentation
-take a pen, grab your colleagues and figure out why you are there and why someone is giving you money to do this.
+## Start writing
+Take a pen and some paper, grab your colleagues and figure out why you are there and why someone is giving you money to do this. A [design sprint](http://www.gv.com/sprint/) is helpful for kickstarting your project. Spicing up your sketching skills can good too.
 
-### 1. The Objective
+### A Project objective
 
-I'd like to recommend writing down an objective of your project. It helps you to keep being focused and it takes a great to designer to figure that out (depending on the client).
+Writing down an objective of your project can be very helpful. It helps you to keep focus and it takes a great to designer to figure that out. Also keeps you from thinking about how you would use this product. An Objective should be:
 
-### 2. learn more about the User
+* Understandable
+* Fullfill a user need
+* As long as needed and as short as possible
 
-What users like to archive, their goals and so on. Talk to them observe them and anchor this observation to the top. It will help to fight against the unconsious mindset the product is designed for you.
+### Breaking down your project
 
-### 3. Breaking down your project
+A product contains usually a couple of features and patterns connecting them. It helps to figure out how big your product will be and which elements are global and which one are just connected to certain features. The hirachy helps you to setup a list of files you like to write. A little app like Framer Munich Agenda App does not need several documents while bigger projects have one for each feature or Pattern.
 
-### 4. Add stories, flows, journey or Jobs...
-Don't forget the objective first.
+A navigation bar is a pattern.
 
-### 5. test
+A login form is a feature with several scenarios.
+
+
+### Learn more about the user
+
+What users like to archive, their goals and so on. Talk to them observe them and anchor this observation to the top. It will help to fight against the unconsious mindset this product is designed for you. 
+
+Add: 
+* Jobstories & Personas 
+* Userjourney
+* Or Flows
+
+### Testing and documentation
+
+One of the most powerful parts in documentation are embedded test results. Instead of collecting test results and through them over the fence, embedd them into your documentation and link it. This documentation has a [changelog](changelog/) which is handy for testresults. A test documentation contains:
+
+* Test setup and testscript for the interviwer
+* Scope of this testing
+* Question you had and their answers
+* Your conclusions
+* Your notes while you have tested
+* New questions for the next tests
 
 ## Summary
 
@@ -48,17 +70,13 @@ Don't forget the objective first.
 
 Silvia Bormüller for the help, being a good colleague and partner in crime.
 
-https://jekyllrb.com
-https://www.bryanbraun.com/anchorjs/
-https://github.com/markserbol/tocible
-https://fonts.google.com/specimen/Roboto
+* https://jekyllrb.com
+* https://www.bryanbraun.com/anchorjs/
+* https://github.com/markserbol/tocible
+* https://fonts.google.com/specimen/Roboto
+* https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/
 
 * Framer Studio, Javascript / coffeescript
 * [Framer Speech Api](https://github.com/baiIey/framer-speech-api)
 * Framer Pointer module
 * Sketch for illustrations
-
-
-### Overview of collaboration candidates
-
-Framer in its most powerful state is documented interaction design. Which software or cloud solution is able to provide that is [collected in a google sheet](https://docs.google.com/spreadsheets/d/15Pv5R7PUbzoQm3y5n6bMCyR3-5SzqoUOQqh8QOApy3U/edit#gid=0)
