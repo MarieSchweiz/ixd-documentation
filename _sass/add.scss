@@ -177,15 +177,30 @@ header.site-header {
     display: flex;
     align-content: center;
     flex-wrap: wrap;
-    flex-direction: column;
-    background-image: url(https://marieschweiz.github.io/ixd-documentation/assets/header_backgroundfoto.png);
-    background-repeat: no-repeat;
-    background-size: contain;
+    flex-direction: column-reverse;
+    background-image: url(assets/stage-bg.png);
+    
 
     .stageproto {
         align-self: center;
         height: 1200px;
         width: 500px; 
+    }
+
+    img {
+        margin: auto;
+        height: 500px;
+    }
+
+    .stagenote {
+        width: 100%;
+        padding: 20px;
+        background-color: #4386FA;
+        color: #fff;
+        text-align: center;
+        position: relative;
+        bottom: 0;
+        margin: 0;
     }
 }
 

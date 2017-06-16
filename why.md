@@ -13,7 +13,14 @@ Documentation is an underestimated discipline in almost every company. Allthough
 * Help making educated decisions
 * Prevent repeated knowledge sharing
 
-Bottom line: Documentation can help you to save a lot of time. For engineers its a neccessarity, for designers it isn't yet. I'd like to share why documentation made me a better designer. It takes bravery and guts to admit you know almost nothing about your project in the beginning. Your documentation will reflect that, bold and visible to you and others. (Agencie's don't feel comfortable about that. It doesn't fit to their selling or marketing mindset)
+Bottom line: Documentation can help you to save a lot of time. For engineers its a neccessarity, for designers it isn't yet. Documentation made me a better designer. It takes bravery and guts to admit you know almost nothing about your project in the beginning. Your documentation will reflect that, bold and visible to you and others. 
+
+## Get started
+
+Find a platform. Which software or cloud solution is able to provide that is [collected in a google sheet](https://docs.google.com/spreadsheets/d/15Pv5R7PUbzoQm3y5n6bMCyR3-5SzqoUOQqh8QOApy3U/edit#gid=0)
+
+CLONE THIS REPO - on github
+
 
 
 ## How to start a design documentation

@@ -38,6 +38,8 @@ open questions: we don't know about dropouts, is blue a likeble color? is the sk
 
 Maybe drop your interview script about this screen here
 
+### Comments and Analysis
+
 <img src="https://marieschweiz.github.io/ixd-documentation/materials/testing-example.jpg" class="imgleft"/> 
 
 <img src="https://marieschweiz.github.io/ixd-documentation/materials/Meetupintro-analysis.png" class="imgright"/>

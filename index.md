@@ -14,13 +14,11 @@ layout: start
 
 With only 3 views, all informations about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/), should be available and served interactive and enjoyable as Framer prototype. Information is structured by importance, so users have no trouble to get everything about the meetup with just two or three touches. 
 
-1. First priority is **What, When and where**, so users are able to figure out their availability. 
+1. Meetup Info: First priority is **What, When and where**, so users are able to figure out their availability. 
 
-2. Feature transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
+2. Speech Feature: A transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
 
-3. Schedule overview with **information to empower their decision**
-
-4. How to catch up with attendees and where to find the next meetup or workshop to meet all of us again.
+3. Schedule overview: **information to empower their decision**
 
 <img src="materials/framer-app-flow.png" class="imgfit"/> 
 
@@ -76,6 +74,7 @@ Munich based designer with or without coding background. Interested in interacti
 
 As soon the App opens a button is offering speech input. By tapping our [feature animation](#feature-animation) is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
 
+Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine!
 
 
 ### Feature animation
