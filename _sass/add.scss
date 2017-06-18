@@ -265,11 +265,16 @@ iframe {
     width:39%;
     float:right;
     margin-left:5%;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 
     @include media-query($on-palm) {
         width: 100%;
         float: none;
+    }
+
+    a {
+        display: block;
+        text-align: center;       
     }
 }   
 
@@ -278,7 +283,7 @@ iframe {
     width:39%;
     float:left;
     margin-right:5%;
-    margin-bottom: 40px;
+    margin-bottom: 100px;
 
     @include media-query($on-palm) {
         width: 100%;

@@ -82,7 +82,8 @@ Documentation Note: depending on your project size or complexity it might be sui
 ### Meetup Information
 
 <figure class="prototype-right">
-<iframe src="https://framer.cloud/Sickv"></iframe>
+<img class="imgfit" src="materials/sayit-Meetupintro.gif" />
+<a href="https://framer.cloud/Sickv" target="_blanc">Open prototype</a>
 </figure>
 
 **Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
@@ -93,8 +94,10 @@ Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/
 
 
 ### Feature Animation
-
-<iframe class="prototype-right" src="https://framer.cloud/QElto"></iframe>
+<figure class="prototype-right">
+<img class="imgfit" src="materials/sayit-Speech.gif" />
+<a href="https://framer.cloud/QElto" target="_blanc">Open prototype</a>
+</figure>
 **Objective:** give users attendees a sneek peak about what framer can archive.
 
 Scenario: A User say's something and the speech recognition will display what he said, wait for 10 seconds and provide the schedule overview.
@@ -106,7 +109,10 @@ To be tested: By letting them go through with any specific voice input, framer i
 
 ### Schedule Overview
 
-<iframe class="prototype-right" src="https://framer.cloud/EXpCI"></iframe>
+<figure class="prototype-right">
+<img class="imgfit" src="materials/sayit-list.gif" />
+<a href="https://framer.cloud/EXpCI" target="_blanc">Open prototype</a>
+</figure>
 **Objective:** Let the user read and decide fast about the meetups schedule and content and what he is interested in or should he/she join at all.
 
 Scenario: Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
