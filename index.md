@@ -51,13 +51,13 @@ In Version 2, additional information could be useful:
 
 Munich based designer with or without coding background. Interested in interaction design and product documentation. 
 
-**Goals:** "learning more about framer", "level up their career profile" or "join the animation movement"
+**User story:** Annie has never wrote code before but she is used to designing mobile applications. Her colleagues demanding more detailed animations and **She wants** to create them in time **so that** her product becomes more polished.
 
-**Painpoints:** "Not being able to code", "Social awkwardness" and "company regulations"
+**Job story: When a user** has limited ressources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers are doing, **so he can** decide about learning or investing time in framer.
 
-**Userstory:** Annie has never wrote code before but she is used to designing mobile applications. Her colleagues demanding more detailed animations and **She wants** to create them in time **so that** her product becomes more polished.
+**User needs:** "learning more about framer", "level up their career profile" or "join the animation movement"
 
-**Jobstory: When a user** has limited ressources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers are doing, **so he can** decide about learning or investing time in framer.
+**User painpoints:** "Not being able to code", "Social awkwardness" and "company regulations"
 
 
 #### Exemplary Userjourney
@@ -122,7 +122,7 @@ To be tested: Is a short workshop description enough to convince a user to join 
 
 ### Scrollable header
 
-Objective: Giving a sponsor the prominent place of a fab we like to ecourage companies to host a Framer Meetup.
+**Objective:** Giving a sponsor the prominent place of a fab we like to ecourage companies to host a Framer Meetup.
 
 In a non scrolled state, the sponsor Button is looking prominent and big with 110 x 110 dp. Scrolling the list will minimize the button and move him to the right or left of the Top Bar.
 
