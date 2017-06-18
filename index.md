@@ -12,18 +12,21 @@ layout: start
 
 ## Main concept
 
+<figure class="prototype-right">
+<iframe src="https://framer.cloud/yrtrK"></iframe>
+<a href="https://framer.cloud/DALOg" target="_blanc">Open in new tap</a>
+</figure>
+
 With only 3 views, all informations about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/), should be available and served interactive and enjoyable as Framer prototype. Information is structured by importance, so users have no trouble to get everything about the meetup with just two or three touches. 
 
 1. **[Meetup Information](#meetup-information):** First priority is **What, When and where**, so users are able to figure out their availability. 
 
-2. **[Feature animation](#feature-animation):** A transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
+2. **[Feature animation](#feature-animation):** A Speech recognition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
 
 3. **[Schedule Overview](#schedule-overview):** **information to empower their decision**
 
 <img src="materials/framer-app-flow.png" class="imgfit"/> 
 
-
-CONNECTED PROTOTYPE GOES HERE
 
 ### MVP definition
 The first Prototype will cover the most important information for attendees and one featured animation:
@@ -64,11 +67,6 @@ Munich based designer with or without coding background. Interested in interacti
 
 
 ## Features
-
-<figure class="prototype-right">
-<iframe src="https://framer.cloud/yrtrK"></iframe>
-<a href="https://framer.cloud/DALOg" target="_blanc">Open in new tap</a>
-</figure>
 
 Documentation Note: depending on your project size or complexity it might be suitable to have for each feature one document. When splitted not going through all definitions again is saving time, just keeping the following structure helped:
 
@@ -135,4 +133,6 @@ In a non scrolled state, the sponsor Button is looking prominent and big with 11
 The idea is to have a prototype available. By definition this project is in a published state. Other projects might not and measurements are in order.
 
 ### Measurements
+
+COMING SOON
 

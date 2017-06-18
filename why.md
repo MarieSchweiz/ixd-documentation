@@ -65,6 +65,8 @@ One of the most powerful parts in documentation are embedded test results. Inste
 
 ## Summary
 
+Don't make it beautiful, don't make it perfect. It has to be written in plain and understandable english. Your colleagues will ask you to add this and that to your documentation and in the end you'll feel exausted but with 100% controll over your design. Project managers will prepare their decisions for you and your development team will wait for your commits. Its an amazing booster for your product and team work.
+
 
 ## Credits
 

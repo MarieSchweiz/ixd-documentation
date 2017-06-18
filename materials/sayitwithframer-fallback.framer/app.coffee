@@ -16,7 +16,7 @@ scroll.scrollHorizontal = false
 scroll.content.draggable.overdrag = false
 scroll.contentInset =
 	top: 170
-	bottom: 30
+	bottom: 20
 	
 scroll.states =
 	default:

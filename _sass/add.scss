@@ -223,6 +223,7 @@ a.site-title {
     }
 
     .stagenote {
+        width: 100%;
         padding: 20px;
         background-color: #4386FA;
         color: #fff;
@@ -346,4 +347,12 @@ ul.postlist {
 
 .footwrapper {
     padding: 30px;
+}
+
+.site-footer {
+    background: #e8e8e8;
+}
+
+.footer-col {
+    padding-left:0;
 }
