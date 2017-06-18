@@ -14,11 +14,11 @@ layout: start
 
 With only 3 views, all informations about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/), should be available and served interactive and enjoyable as Framer prototype. Information is structured by importance, so users have no trouble to get everything about the meetup with just two or three touches. 
 
-1. [Meetup Information](#meetup-information): First priority is **What, When and where**, so users are able to figure out their availability. 
+1. **[Meetup Information](#meetup-information):** First priority is **What, When and where**, so users are able to figure out their availability. 
 
-2. [Feature animation](#feature-animation): A transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
+2. **[Feature animation](#feature-animation):** A transition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
 
-3. [Schedule Overview](#schedule-overview): **information to empower their decision**
+3. **[Schedule Overview](#schedule-overview):** **information to empower their decision**
 
 <img src="materials/framer-app-flow.png" class="imgfit"/> 
 
@@ -65,7 +65,12 @@ Munich based designer with or without coding background. Interested in interacti
 
 ## Features
 
-Documentation Note: depending on your project size or complexity it might be suitable to have for each feature one document. When splitted i'm not going through a couple of definitions again
+<figure class="prototype-right">
+<iframe src="https://framer.cloud/yrtrK"></iframe>
+<a href="https://framer.cloud/DALOg" target="_blanc">Open in new tap</a>
+</figure>
+
+Documentation Note: depending on your project size or complexity it might be suitable to have for each feature one document. When splitted not going through all definitions again is saving time, just keeping the following structure helped:
 
 * Objective
 * MVP or Version
@@ -76,7 +81,9 @@ Documentation Note: depending on your project size or complexity it might be sui
 
 ### Meetup Information
 
-<iframe class="prototype-right" src="https://framer.cloud/Sickv"></iframe>
+<figure class="prototype-right">
+<iframe src="https://framer.cloud/Sickv"></iframe>
+</figure>
 
 **Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
 

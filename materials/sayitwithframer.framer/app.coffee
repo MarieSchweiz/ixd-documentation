@@ -1,3 +1,7 @@
+flow = new FlowComponent
+flow.showNext(Intro)
+
+
 # Variable used to determin is the prototype listening or not.
 
 prototislistening = false
@@ -28,9 +32,12 @@ circlepulse.states =
 			time: 2
 			curve: "easeOut"
 	listening:
-		backgroundColor: "#fff"
+		scale: 2
+		opacity: 0
+		backgroundColor:"#fff"
 		animationOptions:
-			time: 0
+			time: 2
+			curve: "easeOut"
 			
 		
 mic.animate
@@ -44,8 +51,27 @@ mic.animate
 # Iconography for the circle button
 
 mic.states =
+	default:
+		opacity: 1
 	listening:
 		opacity: 0
+	valley:
+		opacity: 0
+
+isarvalley.states =
+	centerlist:
+		opacity: 1
+		animationOptions:
+			time: 0.4
+	fabbish:
+		opacity: 1
+		x: 301
+		y: 83
+		width: 88
+		height: 88
+		animationOptions:
+			time: 0.4
+
 
 Intro.states =
 	listening:
@@ -58,57 +84,19 @@ Heading.states =
 	listening:
 		backgroundColor:"#4386FA"
 	shrink:
-		height: 177
+		x: 0
+		y: 0
+		height: 123
 		backgroundColor:"#4386FA"
+
 
 
 
 # Initial Animation, open prototype
 
-circle.onTap (event,state) ->
+circlebutton.onClick (event,state) ->		
+	flow.showOverlayCenter(Speechinstruction)
 	
-	# if the prototype isn't listening
+circle.onClick (event,state) ->
+	flow.showOverlayCenter(Intro)
 	
-	
-	if prototislistening is false
-		
-		# Set the variable to true
-		prototislistening = true
-		
-		
-		# Set states
-		circlepulse.animate "scaleIt"
-		Intro.animate "listening"
-		circle.animate "listening"
-		
-		circle.animate
-			scale: 1
-			opacity: 1
-			animationOptions:
-				time: 0.2
-				
-		Heading.animate "listening"
-		
-		# Event listener when which state should trigger
-		
-		circlepulse.onStateSwitchEnd (event, state) ->
-			if prototislistening is true
-				if state is "scaleIt"
-					circlepulse.stateSwitch "default"
-					circlepulse.animate "scaleIt"
-			
-	
-	# if the prototype is currently listening
-	
-	else
-		
-		# Set the variable to true
-		prototislistening = false
-		
-		Heading.animate "default"
-		circle.animate "default"
-		
-		
-
-# Register an android ripple for the circle button
-
