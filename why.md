@@ -34,7 +34,7 @@ Writing down an objective of your project can be very helpful. It helps you to k
 * Express how you fullfill your user need
 * take a prominent place in your documentation
 
-<img src="https://marieschweiz.github.io/ixd-documentation/assets/illustration-objective.jpg" class="imgfit"/> 
+<img src="../../../../assets/illustration-objective.jpg" class="imgfit"/> 
 
 ### Breaking down your project
 
@@ -54,7 +54,7 @@ Add:
 * Userjourney
 * Or Flows
 
-<img src="https://marieschweiz.github.io/ixd-documentation/assets/illustration-researcher.jpg" class="imgfit"/> 
+<img src="../../../../assets/illustration-researcher.jpg" class="imgfit"/> 
 
 ### Testing and documentation
 
