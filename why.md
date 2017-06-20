@@ -27,7 +27,7 @@ Find a platform. Which software or cloud solution is able to provide that is [co
 
 ### Find your Project objective
 
-Writing down an objective of your project can be very helpful. It helps you to keep focus and everyone else has a fast understanding on what goal is and what  you like to archive. Also keeps you from thinking about how you would use this product for yourself. An Objective should be:
+Writing down an objective of your project can be very helpful. It helps you to keep focus and everyone else has a fast understanding on what your users goal is and how you empower him. Also keeps you from thinking about how you would use this product for yourself. An Objective should be:
 
 * As long as needed and as short as possible
 * Understandable (e.g. plain english instead of latin)
@@ -38,9 +38,9 @@ Writing down an objective of your project can be very helpful. It helps you to k
 
 ### Breaking down your project
 
-A product contains usually a couple of features and patterns connecting them. It helps to figure out how big your product will be and which elements are global and which one are just connected to certain features. The hirachy helps you to setup a list of files you like to write. A little app like Framer Munich Agenda App does not need several documents while bigger projects have one for each feature or Pattern.
+A product contains usually a couple of features and patterns connecting them. It helps to figure out how big your product will be and which elements are global and which one are just connected to certain features. Hirachy helps you  setting up a list of files you need to write. A little app like 'Framer Munich Agenda App' does not need several documents. Bigger projects have one for each feature or Pattern.
 
-A navigation bar is a pattern.
+A navigation bar is a pattern. With several features attached
 
 A login form is a feature with several scenarios.
 
@@ -80,6 +80,9 @@ One of the most powerful parts in documentation are embedded test results. Inste
 * Your conclusions
 * Your notes while you have tested
 * New questions for the next tests
+
+<img src="../assets/illustration-testing.jpg" class="imgfit"/> 
+
 
 ## Summary
 
