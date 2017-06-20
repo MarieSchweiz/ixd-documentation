@@ -273,3 +273,6 @@ scroll.on Events.Scroll,(event, layer) ->
 		circle.animate ("centerlist")
 		Heading.animate ("shrink")
 		isarvalley.animate ("visible")
+
+Button.onClick (event) ->
+	window.open('https://www.meetup.com/de-DE/meetup-group-framerjs-munich/events/240183588/', '_new')

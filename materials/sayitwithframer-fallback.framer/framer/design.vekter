@@ -594,7 +594,7 @@
             ],
             "parentid" : "(2kWeO}\/",
             "borderRight" : 1,
-            "name" : null,
+            "name" : "Button",
             "height" : 62,
             "borderWidth" : 1,
             "top" : 1282,
@@ -610,7 +610,7 @@
             "borderLeft" : 1,
             "heightFactor" : null,
             "radiusTopLeft" : 3,
-            "targetName" : null,
+            "targetName" : "Button",
             "bottom" : null,
             "width" : 287
           },

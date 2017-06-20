@@ -17,7 +17,7 @@ layout: start
 <a href="https://framer.cloud/DALOg" target="_blanc">Open in new tap</a>
 </figure>
 
-With only 3 views, all informations about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/), should be available and served interactive and enjoyable as Framer prototype. Information is structured by importance, so users have no trouble to get everything about the meetup with just two or three touches. 
+With only 3 views a framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and enjoyable as Framer prototype. Information structured by importance, so users to get everything about the meetup with just two or three touches. 
 
 1. **[Meetup Information](#meetup-information):** First priority is **What, When and where**, so users are able to figure out their availability. 
 

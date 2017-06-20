@@ -54,7 +54,7 @@ Add:
 
 ### Testing and documentation
 
-One of the most powerful parts in documentation are embedded test results. Instead of collecting test results and through them over the fence, embedd them into your documentation and link it. This documentation has a [changelog](changelog/) which is handy for testresults. A test documentation contains:
+One of the most powerful parts in documentation are embedded test results. Instead of collecting test results and through them over the fence, embedd them into your documentation and link it. This documentation has a [changelog](/changelog/) which is handy for testresults. A test documentation contains:
 
 * Test setup and testscript for the interviwer
 * Scope of this testing
