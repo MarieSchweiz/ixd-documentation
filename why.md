@@ -19,7 +19,7 @@ Bottom line: Documentation can help you saving a lot of time. For engineers its 
 ## Get Started
 Take a pen and some paper, grab your colleagues and figure out why you are there and why someone is giving you money to do this. A [design sprint](http://www.gv.com/sprint/) is helpful for kickstarting your project. Spicing up your sketching skills helps your confidence but everyone can sketch!
 
-<img src="/../assets/illustration-designsprint.jpg" class="imgfit"/> 
+<img src="../assets/illustration-designsprint.jpg" class="imgfit"/> 
 
 ## Start writing
 
@@ -34,7 +34,7 @@ Writing down an objective of your project can be very helpful. It helps you to k
 * Express how you fullfill your user need
 * take a prominent place in your documentation
 
-<img src="/../assets/illustration-objective.jpg" class="imgfit"/> 
+<img src="../assets/illustration-objective.jpg" class="imgfit"/> 
 
 ### Breaking down your project
 
@@ -54,7 +54,7 @@ Add:
 * Userjourney
 * Or Flows
 
-<img src="/../assets/illustration-researcher.jpg" class="imgfit"/> 
+<img src="../assets/illustration-researcher.jpg" class="imgfit"/> 
 
 ### Testing and documentation
 
