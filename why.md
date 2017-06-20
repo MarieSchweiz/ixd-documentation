@@ -47,18 +47,32 @@ A login form is a feature with several scenarios.
 
 ### Learn more about the user
 
-What users like to archive, their goals and so on. Talk to them observe them and anchor this observation to the top. It will help to fight against the unconsious mindset this product is designed for you. 
+Add what users like to archive, their goals and so on. Talk to them, observe them and anchor this information to your documentation. It will help to avoid a common and unconsious mindset 'this product is designed for me'. 
 
-Add: 
+Examples what you could add: 
+* Pain & Gainpoints
 * Jobstories & Personas 
-* Userjourney
-* Or Flows
+* Userjourneys
+
 
 <img src="../assets/illustration-researcher.jpg" class="imgfit"/> 
 
+### Embedding screens and Prototypes
+
+For each feature or pattern it helps to have an objective and a prototype, visualizing how you deal with it. Then, add your scenarious and its variations. Patterns can be described with just text or:
+
+* Screens
+* Flows
+* Prototypes (Framer, Marvel etc)
+* Gifs
+
+**Pro tip:** Start with a description and animated gif how it works. Deliver transparency with a flow and offer Screens for detailed views. Your colleagues might need the last one to create their own documents or point to a certain screen.
+
+**Note on Framer:** because firefox doesn't play well with framer and most corporations have blockers for external js libraries, I recommend creating a gif and offer a link to your framer prototype is a good solution to give everyone access to your work. Use <a href="www.cockos.com/licecap/">liceCap</a> to make gifs.
+
 ### Testing and documentation
 
-One of the most powerful parts in documentation are embedded test results. Instead of collecting test results and through them over the fence, embedd them into your documentation and link it. This documentation has a [changelog](/changelog/) which is handy for testresults. A test documentation contains:
+One of the most powerful parts in documentation are embedded test results. Instead of collecting test results and throw them over the fence, embedd them into your documentation and link it. This documentation has a [changelog](/changelog/) which is handy for testresults. An <a href="../misc/2017/06/13/thefirsttest.html">exemplary test documentation</a> contains:
 
 * Test setup and testscript for the interviwer
 * Scope of this testing
