@@ -276,3 +276,4 @@ scroll.on Events.Scroll,(event, layer) ->
 
 Button.onClick (event) ->
 	window.open('https://www.meetup.com/de-DE/meetup-group-framerjs-munich/events/240183588/', '_new')
+	Button.backgroundColor = "#058ACC"

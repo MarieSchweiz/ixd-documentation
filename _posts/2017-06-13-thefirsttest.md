@@ -30,6 +30,7 @@ CONNECTED PROTOTYPE GOES HERE
 
 **Conclusion:** None of our testers tried to tap the title. Asking about how good the button is we have learned it is okay because the screen is very empty and nothing else to tap on.
 
+* The black start screen is a bit boring
 * Readability and contrast wasn't an issue...and so on
 * Users loved the pulse animation and didn't felt stressed
 * Users read the title and did not missed any information (e.g. begin)

@@ -4,7 +4,7 @@ title: Why & How
 permalink: /why/
 ---
 
-Documentation is an underestimated discipline in almost every company. Allthough we know documentation is able to help a team, projects and companies in many ways. Yet we seem to ignore its power and keep postboning it to the very last moment. The "Framer Munich Meetup Agenda App" is an example of how to do documentation first and how documentation can:
+Documentation is an underestimated discipline in almost every company. Allthough we know documentation is able to help a team, projects and companies in many ways. Yet we seem to ignore its power and keep postboning it to the very last moment. The "Framer Munich Meetup Agenda App" is an example of how to do documentation first and this can:
 
 * Minimize Meetings
 * faster onboarding individuals
@@ -13,26 +13,28 @@ Documentation is an underestimated discipline in almost every company. Allthough
 * Help making educated decisions
 * Prevent repeated knowledge sharing
 
-Bottom line: Documentation can help you saving a lot of time. For engineers its a neccessarity, for designers it isn't yet. Documentation made me a better designer. It takes bravery and guts to admit you know almost nothing about your project in the beginning. Your documentation will reflect that, bold and visible to you and others.  
-
-## Get started
-
-Find a platform. Which software or cloud solution is able to provide that is [collected in a google sheet](https://docs.google.com/spreadsheets/d/15Pv5R7PUbzoQm3y5n6bMCyR3-5SzqoUOQqh8QOApy3U/edit#gid=0) If you know a suitable candidate, please don't hesitate to get in touch.
-
-CLONE THIS REPO - on github
+Bottom line: Documentation can help you saving a lot of time. For engineers its a neccessarity, for designers it isn't yet. Documentation made me a better designer. It takes bravery and guts to admit you know almost nothing about your project in the beginning. Your documentation will reflect that, bold and visible to you and others.
 
 
+## Get Started
+Take a pen and some paper, grab your colleagues and figure out why you are there and why someone is giving you money to do this. A [design sprint](http://www.gv.com/sprint/) is helpful for kickstarting your project. Spicing up your sketching skills helps your confidence but everyone can sketch!
+
+<img src="/assets/illustration-designsprint.jpg" class="imgfit"/> 
 
 ## Start writing
-Take a pen and some paper, grab your colleagues and figure out why you are there and why someone is giving you money to do this. A [design sprint](http://www.gv.com/sprint/) is helpful for kickstarting your project. Spicing up your sketching skills can good too.
 
-### A Project objective
+Find a platform. Which software or cloud solution is able to provide that is [collected in a google sheet](https://docs.google.com/spreadsheets/d/15Pv5R7PUbzoQm3y5n6bMCyR3-5SzqoUOQqh8QOApy3U/edit#gid=0) If you happen to know a solution which isn't on this list, please please <a href="mailto:marie.schweiz@gmail.com">tell me</a>.
 
-Writing down an objective of your project can be very helpful. It helps you to keep focus and it takes a great to designer to figure that out. Also keeps you from thinking about how you would use this product. An Objective should be:
+### Find your Project objective
 
-* Understandable
-* Fullfill a user need
+Writing down an objective of your project can be very helpful. It helps you to keep focus and everyone else has a fast understanding on what goal is and what  you like to archive. Also keeps you from thinking about how you would use this product for yourself. An Objective should be:
+
 * As long as needed and as short as possible
+* Understandable (e.g. plain english instead of latin)
+* Express how you fullfill your user need
+* take a prominent place in your documentation
+
+<img src="/assets/illustration-objective.jpg" class="imgfit"/> 
 
 ### Breaking down your project
 
@@ -51,6 +53,8 @@ Add:
 * Jobstories & Personas 
 * Userjourney
 * Or Flows
+
+<img src="/assets/illustration-researcher.jpg" class="imgfit"/> 
 
 ### Testing and documentation
 

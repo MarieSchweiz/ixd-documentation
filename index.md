@@ -19,9 +19,9 @@ layout: start
 
 With only 3 views a framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and enjoyable as Framer prototype. Information structured by importance, so users to get everything about the meetup with just two or three touches. 
 
-1. **[Meetup Information](#meetup-information):** First priority is **What, When and where**, so users are able to figure out their availability. 
+1. **[Meetup Information](#meetup-information):** First priority is **What, When and where**. Users should be able to figure out their availability. 
 
-2. **[Feature animation](#feature-animation):** A Speech recognition is charging users emotionally and **get them exited** about our upcoming meetup. (Feature transitions can highlight a meetup topic or sponsor)
+2. **[Feature animation](#feature-animation):** A Speech recognition is charging users emotionally and **getting them exited** about the meetup. (Feature transitions can highlight a meetup topic or sponsor)
 
 3. **[Schedule Overview](#schedule-overview):** **information to empower their decision**
 
@@ -88,7 +88,7 @@ Documentation Note: depending on your project size or complexity it might be sui
 
 Scenario: As soon the App opens a button is offering speech input. By tapping our [feature animation](#feature-animation) is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
 
-Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine!
+Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine! The Start screen is a bit boring.
 
 
 ### Feature Animation
