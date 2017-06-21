@@ -69,14 +69,7 @@ Munich based designers with or without coding background. Interested in interact
 
 ## Features
 
-Documentation Note: Depending on your project size or complexity it might be suitable to have one document for each feature. If you do split up the documentation that way, it saves time to not go through all definitions again in each document. Keeping the following structure helped me:
-
-* Objective
-* MVP or Version
-* Appearance (where is it anchored in your mental model)
-* Scenario 1
-* Scenario 2
-* Scenario 3... and so on...
+A suggestion which structure I'm working with can be found here but in general a recommendation is to have a structure and keep it.
 
 ### Meetup Information
 
@@ -115,9 +108,13 @@ To be tested: By letting them go through with any voice input, Framer is just sh
 </figure>
 **Objective:** Let the user read and decide fast about the meetup's schedule and content and what they are interested in or whether they should join at all.
 
-Scenario: Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
+**MVP:** Just a listview with a schedule. Version 2 could offer detailed information on talks and speakers.
 
-To be tested: Is a short workshop description enough to convince a user to join or should it be more detailed? Will users understand the necessity of a macbook?
+**Scenario:** Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
+
+**Scenario:** Is a user tapping on the little sponsor logo (#isarvalley) a website will open a link provided by the sponsor.
+
+**To be tested:** Is a short workshop description enough to convince a user to join or should it be more detailed? Will users understand the necessity of a macbook?
 
 
 ## Patterns

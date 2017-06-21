@@ -6,7 +6,7 @@ description: Testing the munich agenda App for the very first time with 3 tester
 toc: true
 ---
 
-On June 10th we have tested our Framer Munich Meetup App with Katie, Brian and Orban. All testers never seen the app before and are based in Munich.
+On June 10th we have tested our Framer Munich Meetup App with Katie, Brian and Orban. All testers have never seen the app before and are based in Munich.
 
 * Katie is a visual designer and never heared of framer before, she is using adobe after effects.
 * Brian is a visual designer, his colleague is using framer.
@@ -14,7 +14,7 @@ On June 10th we have tested our Framer Munich Meetup App with Katie, Brian and O
 
 ## Testsetup
 
-All three characters are fictional, the test too - usually i'm saying how we have testet and what
+All three characters are fictional, the test too - usually I'm saying how we have testet and what
 
 * framer meetup info
 * framer speech recognition

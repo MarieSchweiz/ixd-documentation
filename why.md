@@ -54,8 +54,20 @@ Examples what you could add:
 * Jobstories & Personas 
 * Userjourneys
 
-
 <img src="../assets/illustration-researcher.jpg" class="imgfit"/> 
+
+### Writing for features
+
+Depending on your project size or complexity it might be suitable to have one document for each feature. If you do split up the documentation that way, it saves time to not go through all definitions again in each document. Keeping the following structure helped me:
+
+* Objective
+* MVP or Version
+* Appearance (where is it anchored in your mental model)
+* Scenario 1
+* Scenario 2
+* Scenario 3... and so on...
+
+take a look at [this Example](../#schedule-overview)
 
 ### Embedding screens and Prototypes
 
@@ -91,15 +103,13 @@ Don't make it beautiful, don't make it perfect. It has to be written in plain an
 
 ## Credits
 
-Silvia Bormüller for the help, being a good colleague and partner in crime.
+[Silvia Bormüller](https://twitter.com/svorklab) for the help, being a good colleague and partner in crime. If you like what you are reading, [Tom Johnson](https://twitter.com/tomjohnson) is an amazing technical writer and sharing a lot of knowledge via [http://idratherbewriting.com/](http://idratherbewriting.com/). I recommend reading what [Joel is writing about Software documentation](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) and thanks to Christian, he has to listen without asking for it.
 
-* https://jekyllrb.com
-* https://www.bryanbraun.com/anchorjs/
-* https://github.com/markserbol/tocible
-* https://fonts.google.com/specimen/Roboto
-* https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/
+# Technology used in this repository
 
-* Framer Studio, Javascript / coffeescript
-* [Framer Speech Api](https://github.com/baiIey/framer-speech-api)
-* Framer Pointer module
-* Sketch for illustrations
+* [https://jekyllrb.com](https://jekyllrb.com) Tech to host via github
+* [Anchor JS](https://www.bryanbraun.com/anchorjs/) for urls you can share
+* [Tocible Js](https://github.com/markserbol/tocible) for Table of content overview menus
+* [Roboto](https://fonts.google.com/specimen/Roboto) A type you can use
+
+
