@@ -8,7 +8,7 @@ layout: start
 ---
 
 # What is "Framer MUC Agenda App" ?
-**Objective:** Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneek peak on what is happening on June 26th. Let new designers know how amazing interaction design can be. Serve as example on [why and how](why/) to documentate interaction design.
+**Objective:** Giving registered attendees of [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) a sneak peak on what is happening on June 26th. Let new designers know how amazing interaction design can be. Serve as an example on [why and how](why/) to document interaction design.
 
 ## Main concept
 
@@ -17,9 +17,9 @@ layout: start
 <a href="https://framer.cloud/DALOg" target="_blanc">Open in new tap</a>
 </figure>
 
-With only 3 views a framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and enjoyable as Framer prototype. Information structured by importance, so users to get everything about the meetup with just two or three touches. 
+With only 3 views a framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and will be enjoyable as a Framer prototype. Information will be structured by importance, so users can get everything about the meetup with just two or three touches.
 
-1. **[Meetup Information](#meetup-information):** First priority is **What, When and where**. Users should be able to figure out their availability. 
+1. **[Meetup Information](#meetup-information):** First priority is **What, When and Where**. Users should be able to figure out their availability. 
 
 2. **[Feature animation](#feature-animation):** A Speech recognition is charging users emotionally and **getting them exited** about the meetup. (Feature transitions can highlight a meetup topic or sponsor)
 
@@ -29,7 +29,7 @@ With only 3 views a framer prototype will inform about the upcoming [Framer Muni
 
 
 ### MVP definition
-The first Prototype will cover the most important information for attendees and one featured animation:
+The first prototype will cover the most important information for attendees and one featured animation:
 
 * **What** (Framer Meetup Munich)
 * **When** (June 26th)
@@ -49,15 +49,16 @@ In Version 2, additional information could be useful:
 
 ### User group
 
-Munich based designer with or without coding background. Interested in interaction design and product documentation. 
+Munich based designers with or without coding background. Interested in interaction design and product documentation. 
 
-**User story:** Annie has never wrote code before but she is used to designing mobile applications. Her colleagues demanding more detailed animations and **She wants** to create them in time **so that** her product becomes more polished.
+**User story:** Annie has never written code before but she is used to designing mobile applications. Her colleagues demand more detailed animations and **she wants** to create them in time **so that** her product becomes more polished.
 
-**Job story: When a user** has limited ressources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers are doing, **so he can** decide about learning or investing time in framer.
+**Job story: When a user** has limited resources, time and doesn't want to spend money or too much time yet, **he has to** go to a meetup and see what other designers are doing, **so he can** decide about learning or investing time in Framer.
 
-**User needs:** "learning more about framer", "level up their career profile" or "join the animation movement"
+**User needs:** "learning more about Framer", "level up their career profile" or "join the animation movement"
 
 **User painpoints:** "Not being able to code", "Social awkwardness" and "company regulations"
+
 
 
 #### Exemplary Userjourney
@@ -68,7 +69,7 @@ Munich based designer with or without coding background. Interested in interacti
 
 ## Features
 
-Documentation Note: depending on your project size or complexity it might be suitable to have for each feature one document. When splitted not going through all definitions again is saving time, just keeping the following structure helped:
+Documentation Note: Depending on your project size or complexity it might be suitable to have one document for each feature. If you do split up the documentation that way, it saves time to not go through all definitions again in each document. Keeping the following structure helped me:
 
 * Objective
 * MVP or Version
@@ -79,14 +80,15 @@ Documentation Note: depending on your project size or complexity it might be sui
 
 ### Meetup Information
 
+
 <figure class="prototype-right">
 <img class="imgfit" src="materials/sayit-Meetupintro.gif" />
 <a href="https://framer.cloud/Sickv" target="_blanc">Open prototype</a>
 </figure>
 
-**Objective:** Inform potential attendees about what is happening (A meetup about framer) when (June 26th) and where (at google munich)
+**Objective:** Inform potential attendees about what is happening (a meetup about Framer) when (June 26th) and where (at Google Munich)
 
-Scenario: As soon the App opens a button is offering speech input. By tapping our [feature animation](#feature-animation) is asking you to say something. Tapping the voice button will activate it and its starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
+Scenario: As soon as the app opens a button is offering speech input. When tapping it, our [feature animation](#feature-animation) asks you to say something. Tapping the voice button will activate it and it starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
 
 Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine! The Start screen is a bit boring.
 
@@ -96,13 +98,13 @@ Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/
 <img class="imgfit" src="materials/sayit-Speech.gif" />
 <a href="https://framer.cloud/QElto" target="_blanc">Open prototype</a>
 </figure>
-**Objective:** give users attendees a sneek peak about what framer can archive.
+**Objective:** give users and attendees a sneak peak about what Framer can achieve.
 
-Scenario: A User say's something and the speech recognition will display what he said, wait for 10 seconds and provide the schedule overview.
+Scenario: A user says something and the speech recognition will display what they said, wait for 10 seconds and provide the schedule overview.
 
-Speech recognition is a highly demanded feature and framer is able to do that. Googles speech Api can be accessed via framer and listen to a users voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
+Speech recognition is a highly demanded feature and Framer is able to do that. Google's speech Api can be accessed via Framer and listen to a user's voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
 
-To be tested: By letting them go through with any specific voice input, framer is just showing off. Our theory: accuracy isn't neccessary to engage a user.
+To be tested: By letting them go through with any voice input, Framer is just showing off. Our theory: accuracy isn't necessary to engage a user.
 
 
 ### Schedule Overview
@@ -111,24 +113,24 @@ To be tested: By letting them go through with any specific voice input, framer i
 <img class="imgfit" src="materials/sayit-list.gif" />
 <a href="https://framer.cloud/EXpCI" target="_blanc">Open prototype</a>
 </figure>
-**Objective:** Let the user read and decide fast about the meetups schedule and content and what he is interested in or should he/she join at all.
+**Objective:** Let the user read and decide fast about the meetup's schedule and content and what they are interested in or whether they should join at all.
 
 Scenario: Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
 
-To be tested: Is a short workshop description enough to convince a user to join or should it be more detailed. Will users understand the necessarity of a macbook?
+To be tested: Is a short workshop description enough to convince a user to join or should it be more detailed? Will users understand the necessity of a macbook?
 
 
 ## Patterns
 
 ### Scrollable header
 
-**Objective:** Giving a sponsor the prominent place of a fab we like to ecourage companies to host a Framer Meetup.
+**Objective:** By giving a sponsor the prominent place of a fab, we like to encourage companies to host a Framer Meetup.
 
-In a non scrolled state, the sponsor Button is looking prominent and big with 110 x 110 dp. Scrolling the list will minimize the button and move him to the right or left of the Top Bar.
+In a non scrolled state, the sponsor button is looking prominent and big with 110 x 110 dp. Scrolling the list will minimize the button and move it to the right or left of the Top Bar.
 
 
 
-## Deleriverables
+## Deliverables
 
 The idea is to have a prototype available. By definition this project is in a published state. Other projects might not and measurements are in order.
 
