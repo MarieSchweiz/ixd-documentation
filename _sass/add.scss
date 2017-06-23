@@ -281,10 +281,14 @@ iframe {
         width: 100%;
         float: none;
     }
+    caption {
+        font-size: 14px;
+        font-weight: 300;
+        text-align: center;
+    }
 
     a {
-        display: block;
-        text-align: center;       
+               
     }
 }   
 

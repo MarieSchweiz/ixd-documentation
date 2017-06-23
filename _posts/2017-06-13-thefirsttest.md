@@ -14,13 +14,18 @@ On June 10th we have tested our Framer Munich Meetup App with Katie, Brian and O
 
 ## Testsetup
 
+
+<figure class="prototype-right">
+<iframe src="https://framer.cloud/yrtrK"></iframe>
+<a href="https://framer.cloud/yrtrK" target="_blanc">Open in new tap</a>
+</figure>
+
 All three characters are fictional, the test too - usually I'm saying how we have testet and what
 
 * framer meetup info
 * framer speech recognition
 * framer meetup schedule
 
-CONNECTED PROTOTYPE GOES HERE
 
 ## Findings 
 

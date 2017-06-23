@@ -2,7 +2,7 @@
 
 available via [https://marieschweiz.github.io/ixd-documentation](https://marieschweiz.github.io/ixd-documentation/)
 
-Corporations with engineering background maintain a huge structure to share and contribute code. Designers are able to use that very structure to create their own solution for communicating their project.
+Corporations with engineering background maintain a huge structure to share and contribute code. Designers are able to use that very structure to create their own solution for communicating a project.
 
 This repository is based on Jekyll, maintaining a fake app which is called "framer meetup munich agenda app" - a very boring title but again, a fake app - made to serve as an example.
 
@@ -16,7 +16,7 @@ If you aren't enjoying Jekyll, take a look at [my list of documentation solution
 
 1. Create a folder where you like to run your documentation (could be in your GitHub folder)
 2. Learn how to install [Jekyll](jekyllrb.com) on your computer (requires a terminal).
-3. Download this repository,
+3. Download this repository.
 4. Copy this repository in the folder you just installed jekyll.
 5. Run Jekyll (maybe delete bundlefiles for troubleshooting)
 6. Open your localhost in your browser
@@ -25,7 +25,7 @@ If you aren't enjoying Jekyll, take a look at [my list of documentation solution
 
 Be aware this workflow is not suitable for complete beginners but manageble. Mentorship is highly recommended.
 
-With Jekyll and writing markdown you are able to edit your documentation and receive a folder filled with static html files. These files can be hosted by a webserver, send zipped in a mail, put on a usb stick or commited via git. Github as platform runs jekyll natively on their servers and turn jekyll files into a public repository if requested.
+With Jekyll and writing markdown you are able to edit your documentation and receive a folder filled with static html files. These files can be hosted by a webserver, send zipped in a mail, printed as PDF, stored on a usb stick or commited via git. Github as platform runs jekyll natively on their servers and turns Jekyll files into a hosted public repository (if requested).
 
 This solution is higly accepted in secure environments without any cloud solution available.
 

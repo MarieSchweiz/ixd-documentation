@@ -14,7 +14,7 @@ layout: start
 
 <figure class="prototype-right">
 <iframe src="https://framer.cloud/yrtrK"></iframe>
-<a href="https://framer.cloud/DALOg" target="_blanc">Open in new tap</a>
+<a href="https://framer.cloud/yrtrK" target="_blanc">Open in new tap</a>
 </figure>
 
 With only 3 views a framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and will be enjoyable as a Framer prototype. Information will be structured by importance, so users can get everything about the meetup with just two or three touches.
@@ -76,15 +76,22 @@ A suggestion which structure I'm working with can be found here but in general a
 
 <figure class="prototype-right">
 <img class="imgfit" src="materials/sayit-Meetupintro.gif" />
-<a href="https://framer.cloud/Sickv" target="_blanc">Open prototype</a>
+<caption>
+    <a href="https://framer.cloud/Sickv" target="_blanc">Open prototype</a> or <a href="materials/Measurements-Meetup-Intro.png" target="_blanc">measurements</a>
+</caption>
 </figure>
 
 **Objective:** Inform potential attendees about what is happening (a meetup about Framer) when (June 26th) and where (at Google Munich)
 
 Scenario: As soon as the app opens a button is offering speech input. When tapping it, our [feature animation](#feature-animation) asks you to say something. Tapping the voice button will activate it and it starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
 
-Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine! The Start screen is a bit boring.
+Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine! Start screen is a bit boring.
 
+#### Measurements
+
+* Title is written in 26 sp
+* Background color is #000 or rgba(0,0,0,1)
+* Voice Button is 110 x 110 dp centered
 
 ### Feature Animation
 <figure class="prototype-right">
