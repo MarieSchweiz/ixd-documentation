@@ -93,12 +93,21 @@ Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/
 </figure>
 **Objective:** give users and attendees a sneak peak about what Framer can achieve.
 
+Speech recognition is a highly demanded feature and Framer is able to do that. Google's speech Api can be accessed via Framer and listen to a user's voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
+
 Scenario: A user says something and the speech recognition will display what they said, wait for 10 seconds and provide the schedule overview.
 
-Speech recognition is a highly demanded feature and Framer is able to do that. Google's speech Api can be accessed via Framer and listen to a user's voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
 
 To be tested: By letting them go through with any voice input, Framer is just showing off. Our theory: accuracy isn't necessary to engage a user.
 
+#### Measurements
+
+Pulsing circle animation is the inner circle scaled by 2. 
+
+```
+time: 2
+curve: "easeOut"
+```
 
 ### Schedule Overview
 

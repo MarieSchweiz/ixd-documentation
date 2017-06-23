@@ -6,14 +6,15 @@
   "contentScale" : 1,
   "fullScreen" : false,
   "cachedDeviceWidth" : 411.1153259277344,
+  "deviceType" : "google-pixel-quite-black",
   "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
     "Filters" : false
   },
-  "deviceType" : "google-pixel-quite-black",
   "projectId" : "DDA4D036-AEFC-4338-81F4-3C3B0DD87FA2",
   "deviceOrientation" : 0,
   "selectedHand" : "",
+  "showBezel" : 0,
   "foldedCodeRanges" : [
 
   ],

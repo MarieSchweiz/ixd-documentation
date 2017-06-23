@@ -103,11 +103,11 @@ Don't make it beautiful, don't make it perfect. It has to be written in plain an
 
 ## Credits
 
-[Silvia Bormüller](https://twitter.com/svorklab) for the help, being a good colleague and partner in crime. If you like what you are reading, [Tom Johnson](https://twitter.com/tomjohnson) is an amazing technical writer and sharing a lot of knowledge via [http://idratherbewriting.com/](http://idratherbewriting.com/). I recommend reading what [Joel is writing about Software documentation](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) and thanks to Christian, he has to listen without asking for it.
+[Silvia Bormüller](https://twitter.com/svorklab) for the help, being a good colleague and partner in crime. If you like what you are reading, [Tom Johnson](https://twitter.com/tomjohnson) is an amazing technical writer and sharing a lot of knowledge via [http://idratherbewriting.com](http://idratherbewriting.com/). I recommend reading what [Joel is writing about software documentation](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) and thanks to Christian, he has to listen without asking for it.
 
 # Technology used in this repository
 
-* [https://jekyllrb.com](https://jekyllrb.com) Tech to host via github
+* [https://jekyllrb.com](https://jekyllrb.com) plain text into static websites, host via github
 * [Anchor JS](https://www.bryanbraun.com/anchorjs/) for urls you can share
 * [Tocible Js](https://github.com/markserbol/tocible) for Table of content overview menus
 * [Roboto](https://fonts.google.com/specimen/Roboto) A type you can use

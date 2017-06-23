@@ -3,7 +3,7 @@
 prototislistening = false
 result = false
 
-#
+# create a scroll view
 
 scroll = new ScrollComponent
 	height: Screen.height
@@ -12,12 +12,17 @@ scroll = new ScrollComponent
 	backgroundColor: "#fff"
 	
 
+# configure the scroll view
+
 scroll.scrollHorizontal = false
 scroll.content.draggable.overdrag = false
 scroll.contentInset =
 	top: 170
 	bottom: 20
-	
+
+# Set states for the scrollview
+# default: its hidden and moved out of sight
+
 scroll.states =
 	default:
 		y: 731
@@ -50,10 +55,7 @@ circle.parent = Headingparent
 textfield.parent = Headingparent
 circlepulse.parent = Headingparent
 
-
-
 # Different states for the prototypes interaction
-
 
 Heading.states =
 	default:
@@ -79,6 +81,7 @@ Heading.states =
 			curve: "ease"
 
 # circle button basic
+
 circle.states =
 	default: 
 		backgroundColor: "#4386FA"
@@ -277,3 +280,10 @@ scroll.on Events.Scroll,(event, layer) ->
 Button.onClick (event) ->
 	window.open('https://www.meetup.com/de-DE/meetup-group-framerjs-munich/events/240183588/', '_new')
 	Button.backgroundColor = "#058ACC"
+	
+isarvalley.onTouchEnd (event) ->
+	if isarvalley.opacity is 1
+		window.open('https://sites.google.com/view/isarvalley/startseite', '_new')
+	
+listitemprojectdoc.onTap (event, layer) ->
+	window.open('https://marieschweiz.github.io/ixd-documentation/', '_new')
