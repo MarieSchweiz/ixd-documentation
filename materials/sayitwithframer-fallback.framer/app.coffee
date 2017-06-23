@@ -59,14 +59,14 @@ circlepulse.parent = Headingparent
 
 Heading.states =
 	default:
-		height: 123
+		height: 125
 		backgroundColor:"#000"
 	listening:
 		backgroundColor:"#4386FA"
 	shrink:
 		x: 0
 		y: 0
-		height: 190
+		height: 155
 		backgroundColor:"#4386FA"
 		animationOptions:
 			time: 0.2
@@ -74,7 +74,7 @@ Heading.states =
 	scrolled:
 		x: 0
 		y: 0
-		height: 123
+		height: 125
 		backgroundColor:"#4386FA"
 		animationOptions:
 			time: 0.2

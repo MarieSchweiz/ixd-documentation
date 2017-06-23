@@ -27,7 +27,7 @@ Find a platform. Which software or cloud solution is able to provide that is [co
 
 ### Find your Project objective
 
-Writing down an objective of your project can be very helpful. It helps you to keep focus and everyone else has a fast understanding on what your users goal is and how you empower him. Also keeps you from thinking about how you would use this product for yourself. An Objective should be:
+Writing down an objective ([Example](../#what-is-framer-muc-agenda-app-)) of your project can be very helpful. It helps you to keep focus and everyone else has a fast understanding on what your users goal is and how you empower him. Also keeps you from thinking about how you would use this product for yourself. An objective should be:
 
 * As long as needed and as short as possible
 * Understandable (e.g. plain english instead of latin)
@@ -38,7 +38,7 @@ Writing down an objective of your project can be very helpful. It helps you to k
 
 ### Breaking down your project
 
-A product contains usually a couple of features and patterns connecting them. It helps to figure out how big your product will be and which elements are global and which one are just connected to certain features. Hirachy helps you  setting up a list of files you need to write. A little app like 'Framer Munich Agenda App' does not need several documents. Bigger projects have one for each feature or Pattern.
+A product contains usually a couple of features and patterns connecting them. It helps to figure out how big your product will be and which elements are global and which one are just connected to certain features. Hirachy helps you  setting up a list of files you need to write. A little app like 'Framer Munich Agenda App' does not need several documents. Bigger projects have one for each feature or pattern.
 
 A navigation bar is a pattern. With several features attached
 
@@ -47,7 +47,7 @@ A login form is a feature with several scenarios.
 
 ### Learn more about the user
 
-Add what users like to archive, their goals and so on. Talk to them, observe them and anchor this information to your documentation. It will help to avoid a common and unconsious mindset 'this product is designed for me'. 
+Add what users like to archive, their goals ([Example](../#user-group)) and so on. Talk to them, observe them and anchor this information to your documentation. It will help to avoid a common and unconsious mindset 'this product is designed for me'. 
 
 Examples what you could add: 
 * Pain & Gainpoints
@@ -58,7 +58,7 @@ Examples what you could add:
 
 ### Writing for features
 
-Depending on your project size or complexity it might be suitable to have one document for each feature. If you do split up the documentation that way, it saves time to not go through all definitions again in each document. Keeping the following structure helped me:
+Depending on your project size or complexity it might be suitable to have one document for each feature ([Example](../#meetup-information)). If you do split up the documentation that way, it saves time to not go through all definitions again in each document. Keeping the following structure helped me:
 
 * Objective
 * MVP or Version
@@ -80,11 +80,11 @@ For each feature or pattern it helps to have an objective and a prototype, visua
 
 **Pro tip:** Start with a description and animated gif how it works. Deliver transparency with a flow and offer Screens for detailed views. Your colleagues might need the last one to create their own documents or point to a certain screen.
 
-**Note on Framer:** because firefox doesn't play well with framer and most corporations have blockers for external js libraries, I recommend creating a gif and offer a link to your framer prototype is a good solution to give everyone access to your work. Use <a href="www.cockos.com/licecap/">liceCap</a> to make gifs.
+**Note on Framer:** because firefox doesn't play well with framer and most corporations have blockers for external js libraries, I recommend creating a gif and offer a link to your framer prototype is a good solution to give everyone access to your work. Use <a href="www.cockos.com/licecap/">liceCap</a> to make gifs for older browsers.
 
 ### Testing and documentation
 
-One of the most powerful parts in documentation are embedded test results. Instead of collecting test results and throw them over the fence, embedd them into your documentation and link it. This documentation has a [changelog](/changelog/) which is handy for testresults. An <a href="../misc/2017/06/13/thefirsttest.html">exemplary test documentation</a> contains:
+One of the most powerful parts in documentation are embedded test results. Instead of collecting test results and throw them over the fence, embedd them into your documentation and link it ([Example](../#meetup-information)). This documentation has a [changelog](/changelog/) which is handy for testresults. An <a href="../misc/2017/06/13/thefirsttest.html">exemplary test documentation</a> contains:
 
 * Test setup and testscript for the interviwer
 * Scope of this testing
@@ -103,7 +103,7 @@ Don't make it beautiful, don't make it perfect. It has to be written in plain an
 
 ## Credits
 
-[Silvia Bormüller](https://twitter.com/svorklab) for the help, being a good colleague and partner in crime. If you like what you are reading, [Tom Johnson](https://twitter.com/tomjohnson) is an amazing technical writer and sharing a lot of knowledge via [http://idratherbewriting.com](http://idratherbewriting.com/). I recommend reading what [Joel is writing about software documentation](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) and thanks to Christian, he has to listen without asking for it.
+[Silvia Bormüller](https://twitter.com/svorklab) for the help, being a good colleague and partner in crime. If you like what you are reading, [Tom Johnson](https://twitter.com/tomjohnson) is an amazing technical writer and sharing a lot of knowledge via [idratherbewriting.com](http://idratherbewriting.com/). I recommend reading what [Joel is writing about software documentation](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) and thanks to Christian, he has to listen without asking for it.
 
 # Technology used in this repository
 

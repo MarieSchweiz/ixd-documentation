@@ -597,7 +597,7 @@
             "name" : "Button",
             "height" : 62,
             "borderWidth" : 1,
-            "top" : 1282,
+            "top" : 1272,
             "borderTop" : 1,
             "radiusTopRight" : 3,
             "borderBottom" : 1,
@@ -605,7 +605,7 @@
             "constraintsLocked" : true,
             "right" : 67,
             "radiusPerCorner" : false,
-            "centerAnchorY" : 0.8160348042262274,
+            "centerAnchorY" : 0.8098197638284649,
             "visible" : true,
             "borderLeft" : 1,
             "heightFactor" : null,
@@ -748,10 +748,10 @@
           {
             "__class" : "TextNode",
             "locked" : false,
-            "centerAnchorX" : 0.5231143552311436,
+            "centerAnchorX" : 0.5,
             "parentid" : "(2kWeO}\/",
             "rotation" : 0,
-            "top" : 1421,
+            "top" : 1378,
             "right" : 17,
             "styledText" : {
               "blocks" : [
@@ -809,34 +809,56 @@
                 {
                   "depth" : 0,
                   "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "FONT:Roboto-Regular",
+                      "COLOR:rgba(76, 76, 76, 1.00)",
+                      "SIZE:14",
+                      "LINEHEIGHT:1.5",
+                      "ALIGN:center"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "2f9vq",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
                     {
-                      "length" : 39,
+                      "length" : 18,
                       "style" : "LETTERSPACING:0",
                       "offset" : 0
                     },
                     {
-                      "length" : 39,
-                      "style" : "FONT:Roboto-Regular",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 39,
+                      "length" : 18,
                       "style" : "COLOR:rgba(76, 76, 76, 1.00)",
                       "offset" : 0
                     },
                     {
-                      "length" : 39,
+                      "length" : 18,
                       "style" : "SIZE:14",
                       "offset" : 0
                     },
                     {
-                      "length" : 39,
+                      "length" : 18,
                       "style" : "LINEHEIGHT:1.5",
                       "offset" : 0
                     },
                     {
-                      "length" : 39,
+                      "length" : 18,
                       "style" : "ALIGN:center",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 18,
+                      "style" : "FONT:Roboto-Bold",
                       "offset" : 0
                     }
                   ],
@@ -853,7 +875,7 @@
                       "ALIGN:center"
                     ]
                   },
-                  "text" : "Silvia, @svorklab Freelance UX Designer",
+                  "text" : "Silvia, @svorklab ",
                   "key" : "21cb",
                   "type" : "unstyled"
                 },
@@ -861,33 +883,23 @@
                   "depth" : 0,
                   "inlineStyleRanges" : [
                     {
-                      "length" : 1,
-                      "style" : "LETTERSPACING:0",
+                      "length" : 26,
+                      "style" : "ALIGN:center",
                       "offset" : 0
                     },
                     {
-                      "length" : 1,
+                      "length" : 26,
                       "style" : "FONT:Roboto-Regular",
                       "offset" : 0
                     },
                     {
-                      "length" : 1,
+                      "length" : 26,
                       "style" : "COLOR:rgba(76, 76, 76, 1.00)",
                       "offset" : 0
                     },
                     {
-                      "length" : 1,
+                      "length" : 26,
                       "style" : "SIZE:14",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 1,
-                      "style" : "LINEHEIGHT:1.5",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 1,
-                      "style" : "ALIGN:center",
                       "offset" : 0
                     }
                   ],
@@ -896,16 +908,119 @@
                   ],
                   "data" : {
                     "emptyStyle" : [
-                      "LETTERSPACING:0",
+                      "ALIGN:center",
                       "FONT:Roboto-Regular",
-                      "COLOR:rgba(76, 76, 76, 1.00)",
-                      "SIZE:14",
-                      "LINEHEIGHT:1.5",
-                      "ALIGN:center"
+                      "SIZE:12"
                     ]
                   },
-                  "text" : "&",
-                  "key" : "1ju7c",
+                  "text" : "Freelance UI \/ UX Designer",
+                  "key" : "bis4s",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 29,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 29,
+                      "style" : "FONT:Roboto-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 29,
+                      "style" : "COLOR:rgba(76, 76, 76, 1.00)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 29,
+                      "style" : "SIZE:14",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 9,
+                      "style" : "BOLD",
+                      "offset" : 20
+                    }
+                  ],
+                  "entityRanges" : [
+                    {
+                      "length" : 9,
+                      "key" : 0,
+                      "offset" : 20
+                    }
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "ALIGN:center",
+                      "FONT:Roboto-Regular",
+                      "COLOR:rgba(76, 76, 76, 1.00)",
+                      "SIZE:14"
+                    ]
+                  },
+                  "text" : " Ambassador Germany sketchapp",
+                  "key" : "fve8h",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 30,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 30,
+                      "style" : "FONT:Roboto-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 30,
+                      "style" : "COLOR:rgba(76, 76, 76, 1.00)",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 30,
+                      "style" : "SIZE:14",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "ALIGN:center",
+                      "FONT:Roboto-Regular",
+                      "COLOR:rgba(76, 76, 76, 1.00)",
+                      "SIZE:14"
+                    ]
+                  },
+                  "text" : "Organizer Framer Meetup Munich",
+                  "key" : "fhc75",
+                  "type" : "unstyled"
+                },
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "ALIGN:center",
+                      "FONT:Roboto-Regular",
+                      "SIZE:12"
+                    ]
+                  },
+                  "text" : "",
+                  "key" : "3kmr1",
                   "type" : "unstyled"
                 },
                 {
@@ -963,32 +1078,32 @@
                   "depth" : 0,
                   "inlineStyleRanges" : [
                     {
-                      "length" : 3,
+                      "length" : 16,
                       "style" : "LETTERSPACING:0",
                       "offset" : 0
                     },
                     {
-                      "length" : 3,
+                      "length" : 16,
                       "style" : "FONT:Roboto-Regular",
                       "offset" : 0
                     },
                     {
-                      "length" : 3,
+                      "length" : 16,
                       "style" : "COLOR:rgba(76, 76, 76, 1.00)",
                       "offset" : 0
                     },
                     {
-                      "length" : 3,
+                      "length" : 16,
                       "style" : "SIZE:14",
                       "offset" : 0
                     },
                     {
-                      "length" : 3,
+                      "length" : 16,
                       "style" : "LINEHEIGHT:1.5",
                       "offset" : 0
                     },
                     {
-                      "length" : 3,
+                      "length" : 16,
                       "style" : "ALIGN:center",
                       "offset" : 0
                     }
@@ -1006,7 +1121,7 @@
                       "ALIGN:center"
                     ]
                   },
-                  "text" : "and",
+                  "text" : "and sponsored by",
                   "key" : "98qmt",
                   "type" : "unstyled"
                 },
@@ -1064,7 +1179,15 @@
               ],
               "__class" : "StyledTextDraft",
               "entityMap" : {
-
+                "0" : {
+                  "type" : "LINK",
+                  "mutability" : "MUTABLE",
+                  "data" : {
+                    "rel" : "nofollow",
+                    "href" : "https:\/\/twitter.com\/sketchapp",
+                    "url" : "https:\/\/twitter.com\/sketchapp"
+                  }
+                }
               }
             },
             "name" : null,
@@ -1080,17 +1203,17 @@
             ],
             "id" : "4[Cj76U9",
             "constraintsLocked" : true,
-            "left" : 36,
+            "left" : 17,
             "bottom" : null,
-            "height" : 140,
+            "height" : 205,
             "opacity" : 1,
-            "width" : 358,
+            "width" : 377,
             "widthFactor" : null,
             "targetName" : null,
             "heightFactor" : null,
             "editable" : false,
             "visible" : true,
-            "centerAnchorY" : 0.9266625233064015,
+            "centerAnchorY" : 0.9201367308887508,
             "autoSize" : false
           },
           {

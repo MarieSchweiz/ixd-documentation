@@ -17,7 +17,7 @@ layout: start
 <a href="https://framer.cloud/yrtrK" target="_blanc">Open in new tap</a>
 </figure>
 
-With only 3 views a framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and will be enjoyable as a Framer prototype. Information will be structured by importance, so users can get everything about the meetup with just two or three touches.
+With only 3 views a Framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and will be enjoyable as a Framer prototype. Information will be structured by importance, so users can get everything about the meetup with just two or three touches.
 
 1. **[Meetup Information](#meetup-information):** First priority is **What, When and Where**. Users should be able to figure out their availability. 
 
@@ -126,7 +126,7 @@ curve: "easeOut"
 
 **MVP:** Just a listview with a schedule. Version 2 could offer detailed information on talks and speakers.
 
-**Scenario:** Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content.
+**Scenario:** Has a user said something, the meetup schedule will slide in. A scrollview allows them to explore the whole meetup and its content. A shrinking and [scrollable header pattern](#scrollable-header) is giving more screen space to read.
 
 **Scenario:** Is a user tapping on the little sponsor logo (#isarvalley) a website will open a link provided by the sponsor.
 
@@ -137,17 +137,31 @@ curve: "easeOut"
 
 ### Scrollable header
 
-**Objective:** By giving a sponsor the prominent place of a fab, we like to encourage companies to host a Framer Meetup.
+**Objective:** Encourage companies to host a Framer Meetup by giving a sponsor the prominent place of a fab.
 
-In a non scrolled state, the sponsor button is looking prominent and big with 110 x 110 dp. Scrolling the list will minimize the button and move it to the right or left of the Top Bar.
+In a non scrolled state, the sponsor button is looking prominent and big with 110 x 110 dp. [Scrolling a list](#schedule-overview) will minimize the button and move it to the right or left of the Top Bar.
 
+
+<figure class="figureleft">
+<img src="materials/Pattern-Header-topview.png"/> 
+<caption>Header in its default state</caption>
+</figure>
+
+<figure class="figureleft">
+<img src="materials/Pattern-Header-scrolledview.png"/> 
+<caption>Header as soon you scroll it</caption>
+</figure>
 
 
 ## Deliverables
 
-The idea is to have a prototype available. By definition this project is in a published state. Other projects might not and measurements are in order.
+The idea is to have a prototype available for sharing. By definition this project is in a published state if a Framer prototype is available:
 
-### Measurements
+* As [URL via framercloud](https://framer.cloud/yrtrK)
+* As [GIF for social media advertising](materials/Sayitwithframer3.gif)
+* As [documentation](#)
 
-COMING SOON
+
+### Downloads
+
 

@@ -248,20 +248,27 @@ a.site-title {
 }
 
 .imgfit {
-    width: 100%;
+    max-width: 100%;
 }
 .imgright {
-    width: 100%;
     width:39%;
     float:right;
     margin-left:5%;
 }
 
 .imgleft {
-    width: 100%;
     width:39%;
     float:left;
     margin-left:5%;
+}
+
+.figureleft {
+    width:39%;
+    float:left;
+    margin: 30px 30px 30px 0 ;
+    font-size: 12px;
+    text-align: center;
+    color: #868686;
 }
 
 
