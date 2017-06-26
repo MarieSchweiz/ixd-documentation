@@ -59,7 +59,7 @@ Munich based designers with or without coding background. Interested in interact
 
 **User painpoints:** "Not being able to code", "Social awkwardness" and "company regulations"
 
-
+Usecases: Feel free to add some
 
 #### Exemplary Userjourney
 
@@ -100,7 +100,7 @@ Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/
 </figure>
 **Objective:** give users and attendees a sneak peak about what Framer can achieve.
 
-Speech recognition is a highly demanded feature and Framer is able to do that. Google's speech Api can be accessed via Framer and listen to a user's voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
+Speech recognition is a highly demanded feature and Framer is able to do that. A browsers speech api ([W3c Statement](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html) on speech specification) can be accessed via Framer and listen to a user's voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
 
 Scenario: A user says something and the speech recognition will display what they said, wait for 10 seconds and provide the schedule overview.
 
@@ -139,7 +139,7 @@ curve: "easeOut"
 
 **Objective:** Encourage companies to host a Framer Meetup by giving a sponsor the prominent place of a fab.
 
-In a non scrolled state, the sponsor button is looking prominent and big with 110 x 110 dp. [Scrolling a list](#schedule-overview) will minimize the button and move it to the right or left of the Top Bar.
+In a non scrolled state, the sponsor button is looking prominent and big with 110 x 110 dp. [Scrolling a list](#schedule-overview) will minimize the button and move it to the right or left of the top bar.
 
 
 <figure class="figureleft">

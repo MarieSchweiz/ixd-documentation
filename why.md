@@ -113,3 +113,10 @@ Don't make it beautiful, don't make it perfect. It has to be written in plain an
 * [Roboto](https://fonts.google.com/specimen/Roboto) A type you can use
 
 
+# Useful links and stuff to read
+
+* A [documentation theme for Jekyll](http://idratherbewriting.com/documentation-theme-jekyll/)
+* A [Medium article how to use Git](https://medium.com/@dfosco/git-for-designers-856c434716e)
+* [Rionas McNamaras Talk about g3docs](https://www.usenix.org/conference/srecon16europe/program/presentation/macnamara)
+* A [software for creating gifs](www.cockos.com/licecap/)
+* A [list of documentation tools](https://docs.google.com/spreadsheets/d/15Pv5R7PUbzoQm3y5n6bMCyR3-5SzqoUOQqh8QOApy3U/edit#gid=0) you could use

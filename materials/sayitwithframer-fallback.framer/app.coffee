@@ -223,6 +223,11 @@ circle.onClick (event,state) ->
 			
 				textfield.html = result[0].transcript
 				
+				#if result[0].transcript == "hello"
+				#	print "so"
+				
+				# What happens when a speech result arrived
+				
 				scroll.animate "slidein"
 				Heading.animate "shrink"
 				mic.animate "valley"
@@ -230,8 +235,6 @@ circle.onClick (event,state) ->
 				isarvalley.animate "visible"
 				prototislistening = false
 				textfield.html = "Framer Meetup Munich June 26th @Google"
-				
-				circlepulse.destroy()
 				circlepulse.destroy()
 
 			else
