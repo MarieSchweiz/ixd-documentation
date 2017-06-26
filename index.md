@@ -102,7 +102,7 @@ Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/
 
 Speech recognition is a highly demanded feature and Framer is able to do that. A browsers speech api ([W3c Statement](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html) on speech specification) can be accessed via Framer and listen to a user's voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
 
-Scenario: A user says something and the speech recognition will display what they said, wait for 10 seconds and provide the schedule overview.
+Scenario: A user says "hello" and the speech recognition will display what they said, wait for 10 seconds and provide the schedule overview.
 
 
 To be tested: By letting them go through with any voice input, Framer is just showing off. Our theory: accuracy isn't necessary to engage a user.
