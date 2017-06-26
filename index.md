@@ -77,7 +77,7 @@ A suggestion which structure I'm working with can be found here but in general a
 <figure class="prototype-right">
 <img class="imgfit" src="materials/sayit-Meetupintro.gif" />
 <caption>
-    <a href="https://framer.cloud/Sickv" target="_blanc">Open prototype</a> or <a href="materials/Measurements-Meetup-Intro.png" target="_blanc">measurements</a>
+    <a href="https://framer.cloud/Sickv" target="_blanc">Open prototype</a> or <a href="materials/Measurements-Meetup-Intro.png" target="_blanc">measurements</a>. <a href="materials/Feature_Meetupintro/">Versions</a>
 </caption>
 </figure>
 
