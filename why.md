@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why & How
+title: Why & How documentation
 permalink: /why/
 ---
 

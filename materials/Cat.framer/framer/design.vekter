@@ -1,0 +1,469 @@
+{
+  "version" : 0,
+  "root" : {
+    "id" : "F*$u?=]-",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "hcmp+n21",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "F*$u?=]-",
+        "width" : 360,
+        "y" : 0,
+        "deviceType" : "google-nexus-5x",
+        "type" : "google-nexus-5x",
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : ">iuc*#<e",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(254, 84, 84)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "parentid" : "hcmp+n21",
+            "borderRight" : 1,
+            "name" : "Header",
+            "height" : 267,
+            "borderWidth" : 1,
+            "top" : 0,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.20859375,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 360
+          },
+          {
+            "__class" : "OvalNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5013888888888889,
+            "parentid" : "hcmp+n21",
+            "rotation" : 0,
+            "top" : 175,
+            "borderWidth" : 1,
+            "right" : null,
+            "borderEnabled" : false,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "fillColorEnabled" : false,
+                "id" : ";#>1F-,T",
+                "__class" : "ImageNode",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 1,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : -18,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.4972972972972973,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "image" : "yAFdU7p4vXfG8b5cbdea9kCnoibgYaB4YkC4RAqhAKDKIiJBp3cMbG3e8NFJirf1YfFrhMdKaswyVe5PPab6Q",
+                "parentid" : "IG^B+ihA",
+                "borderRight" : 1,
+                "name" : "CAT",
+                "height" : 220,
+                "borderWidth" : 1,
+                "top" : -18,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 220,
+                "borderBottom" : 1,
+                "originalFilename" : "dr-nos-katze.png",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : -17,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.4972972972972973,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 220,
+                "radiusTopLeft" : 0,
+                "targetName" : "CAT",
+                "bottom" : null,
+                "width" : 220
+              }
+            ],
+            "name" : "Circle",
+            "aspectRatioLocked" : true,
+            "fillColorEnabled" : true,
+            "id" : "IG^B+ihA",
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : null,
+            "height" : 185,
+            "opacity" : 1,
+            "width" : 185,
+            "widthFactor" : null,
+            "targetName" : "Circle",
+            "heightFactor" : null,
+            "fillColor" : "rgb(176, 39, 39)",
+            "borderColor" : "#222",
+            "centerAnchorY" : 0.41796875,
+            "visible" : true,
+            "clip" : true
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5013888888888889,
+            "parentid" : "hcmp+n21",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 26,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 31,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 31,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 31,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 31,
+                      "style" : "FONT:Roboto-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 31,
+                      "style" : "SIZE:16",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 31,
+                      "style" : "COLOR:rgb(153, 153, 153)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "ALIGN:center",
+                      "FONT:Roboto-Regular",
+                      "SIZE:16",
+                      "COLOR:rgb(153, 153, 153)"
+                    ]
+                  },
+                  "text" : "A truly loveley and hungry cat!",
+                  "key" : "8574d",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "aspectRatioLocked" : false,
+            "id" : "UpBU.G*I",
+            "x" : 27,
+            "constraintsLocked" : false,
+            "left" : 27,
+            "bottom" : 183,
+            "height" : 31,
+            "opacity" : 1,
+            "width" : 307,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.68984375,
+            "autoSize" : false,
+            "y" : 403
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5013888888888889,
+            "parentid" : "hcmp+n21",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 26,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 3,
+                      "style" : "COLOR:#000000",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "SIZE:22",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 3,
+                      "style" : "FONT:Roboto-Medium",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:#000000",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "ALIGN:center",
+                      "SIZE:22",
+                      "FONT:Roboto-Medium"
+                    ]
+                  },
+                  "text" : "YES",
+                  "key" : "8574d",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : "YESBUTTON",
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "aspectRatioLocked" : false,
+            "id" : "fwUwyw|@",
+            "x" : 27,
+            "constraintsLocked" : false,
+            "left" : 27,
+            "bottom" : 55,
+            "height" : 31,
+            "opacity" : 1,
+            "width" : 307,
+            "widthFactor" : null,
+            "targetName" : "YESBUTTON",
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.88984375,
+            "autoSize" : false,
+            "y" : 403
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5013888888888889,
+            "parentid" : "hcmp+n21",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 26,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 6,
+                      "style" : "COLOR:#000000",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "ALIGN:center",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "FONT:Roboto-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "SIZE:22",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:#000000",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "ALIGN:center",
+                      "FONT:Roboto-Regular",
+                      "SIZE:22"
+                    ]
+                  },
+                  "text" : "Dr No!",
+                  "key" : "8574d",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : null,
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "aspectRatioLocked" : false,
+            "id" : "K~h`H9PG",
+            "x" : 27,
+            "constraintsLocked" : false,
+            "left" : 27,
+            "bottom" : 214,
+            "height" : 31,
+            "opacity" : 1,
+            "width" : 307,
+            "widthFactor" : null,
+            "targetName" : null,
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.64140625,
+            "autoSize" : false,
+            "y" : 403
+          }
+        ],
+        "height" : 640,
+        "fillColor" : "rgb(242, 242, 242)",
+        "targetName" : null,
+        "name" : null
+      }
+    ]
+  }
+}
