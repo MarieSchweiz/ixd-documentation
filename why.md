@@ -6,12 +6,13 @@ permalink: /why/
 
 Documentation is an underestimated discipline in almost every company. Allthough we know documentation is able to help a team, projects and companies in many ways. Yet we seem to ignore its power and keep postboning it to the very last moment. The "Framer Munich Meetup Agenda App" is an example of how to do documentation first and this can:
 
-* Minimize Meetings
+* Minimize meetings
 * faster onboarding individuals
 * discover product touchpoints
 * empower general communication
 * Help making educated decisions
 * Prevent repeated knowledge sharing
+* increase impact of testings
 
 Bottom line: Documentation can help you saving a lot of time. For engineers its a neccessarity, for designers it isn't yet. Documentation made me a better designer. It takes bravery and guts to admit you know almost nothing about your project in the beginning. Your documentation will reflect that, bold and visible to you and others.
 
@@ -27,7 +28,7 @@ Find a platform. Which software or cloud solution is able to provide that is [co
 
 ### Find your Project objective
 
-Writing down an objective ([Example](../#what-is-framer-muc-agenda-app-)) of your project can be very helpful. It helps you to keep focus and everyone else has a fast understanding on what your users goal is and how you empower him. Also keeps you from thinking about how you would use this product for yourself. An objective should be:
+Writing down an objective ([Example](../#what-is-framer-muc-agenda-app-)) of your project is good. It helps you to keep focus and everyone else has a fast understanding on what your users goal is and how you empower him. Also keeps you from thinking about how you would use this product for yourself. An objective should be:
 
 * As long as needed and as short as possible
 * Understandable (e.g. plain english instead of latin)
@@ -58,7 +59,7 @@ Examples what you could add:
 
 ### Writing for features
 
-Depending on your project size or complexity it might be suitable to have one document for each feature ([Example](../#meetup-information)). If you do split up the documentation that way, it saves time to not go through all definitions again in each document. Keeping the following structure helped me:
+Depending on your project size or complexity it might be suitable to have one document for each feature ([Example](../#meetup-information)). If you split up a documentation, it saves time to not go through all definitions again in each document. Keeping a structure helps:
 
 * Objective
 * MVP or Version
@@ -92,6 +93,8 @@ One of the most powerful parts in documentation are embedded test results. Inste
 * Your conclusions
 * Your notes while you have tested
 * New questions for the next tests
+
+Note on design sprints: Summarize your sprint and add it like a test is sharing your effort and insight. Sprints usually contain research and testing which should be accesssible.
 
 <img src="../assets/illustration-testing.jpg" class="imgfit"/> 
 

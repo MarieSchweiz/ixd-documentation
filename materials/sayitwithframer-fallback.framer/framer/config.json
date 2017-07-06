@@ -7,11 +7,11 @@
   "fullScreen" : false,
   "cachedDeviceWidth" : 411.1153259277344,
   "deviceType" : "google-pixel-quite-black",
-  "sharedPrototype" : true,
+  "sharedPrototype" : 0,
   "propertyPanelToggleStates" : {
-    "Filters" : false
+
   },
-  "projectId" : "DDA4D036-AEFC-4338-81F4-3C3B0DD87FA2",
+  "projectId" : "B42DCAD6-9F2E-4216-9FAF-88BB395C12F5",
   "deviceOrientation" : 0,
   "selectedHand" : "",
   "showBezel" : 0,

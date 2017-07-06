@@ -1,443 +1,10 @@
 {
   "version" : 0,
   "root" : {
-    "id" : "Vilt]7t0",
-    "fillColor" : "#fff",
+    "id" : "NL@qvi`x",
     "__class" : "CanvasNode",
     "parentid" : null,
     "children" : [
-      {
-        "id" : "XkFtr,Kj",
-        "__class" : "FrameNode",
-        "x" : -653,
-        "parentid" : "Vilt]7t0",
-        "width" : 411,
-        "y" : 288,
-        "deviceType" : null,
-        "children" : [
-          {
-            "radiusBottomLeft" : 0,
-            "rotation" : 0,
-            "fillColorEnabled" : true,
-            "id" : "P<j.,)$-",
-            "__class" : "RectangleNode",
-            "fillColor" : "rgb(0, 0, 0)",
-            "aspectRatioLocked" : false,
-            "widthFactor" : null,
-            "opacity" : 1,
-            "clip" : false,
-            "borderColor" : "#222",
-            "left" : 0,
-            "locked" : false,
-            "radius" : 0,
-            "boxShadows" : [
-              {
-                "x" : 0,
-                "color" : "rgba(0,0,0,0.25)",
-                "enabled" : false,
-                "y" : 2,
-                "__class" : "BoxShadow",
-                "inset" : false,
-                "blur" : 5
-              }
-            ],
-            "centerAnchorX" : 0.5,
-            "borderPerSide" : false,
-            "radiusBottomRight" : 0,
-            "children" : [
-              {
-                "__class" : "TextNode",
-                "locked" : false,
-                "centerAnchorX" : 0.4866180048661801,
-                "parentid" : "P<j.,)$-",
-                "rotation" : 0,
-                "top" : 24,
-                "right" : 33,
-                "styledText" : {
-                  "blocks" : [
-                    {
-                      "depth" : 0,
-                      "inlineStyleRanges" : [
-                        {
-                          "length" : 20,
-                          "style" : "LETTERSPACING:0",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 20,
-                          "style" : "FONT:Roboto-Regular",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 20,
-                          "style" : "ALIGN:left",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 20,
-                          "style" : "SIZE:26",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 20,
-                          "style" : "COLOR:rgb(255, 255, 255)",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 20,
-                          "style" : "LINEHEIGHT:1.2",
-                          "offset" : 0
-                        }
-                      ],
-                      "entityRanges" : [
-
-                      ],
-                      "data" : {
-                        "emptyStyle" : [
-                          "LETTERSPACING:0",
-                          "FONT:Roboto-Regular",
-                          "ALIGN:left",
-                          "SIZE:26",
-                          "COLOR:rgb(255, 255, 255)",
-                          "LINEHEIGHT:1.2"
-                        ]
-                      },
-                      "text" : "Framer Meetup Munich",
-                      "key" : "fm4e6",
-                      "type" : "unstyled"
-                    },
-                    {
-                      "depth" : 0,
-                      "inlineStyleRanges" : [
-                        {
-                          "length" : 17,
-                          "style" : "LETTERSPACING:0",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 17,
-                          "style" : "FONT:Roboto-Regular",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 17,
-                          "style" : "ALIGN:left",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 17,
-                          "style" : "SIZE:26",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 17,
-                          "style" : "COLOR:rgb(255, 255, 255)",
-                          "offset" : 0
-                        },
-                        {
-                          "length" : 17,
-                          "style" : "LINEHEIGHT:1.2",
-                          "offset" : 0
-                        }
-                      ],
-                      "entityRanges" : [
-
-                      ],
-                      "data" : {
-                        "emptyStyle" : [
-                          "LETTERSPACING:0",
-                          "FONT:Roboto-Regular",
-                          "ALIGN:left",
-                          "SIZE:26",
-                          "COLOR:rgb(255, 255, 255)",
-                          "LINEHEIGHT:1.2"
-                        ]
-                      },
-                      "text" : "June 26th @Google",
-                      "key" : "8hj94",
-                      "type" : "unstyled"
-                    }
-                  ],
-                  "__class" : "StyledTextDraft",
-                  "entityMap" : {
-
-                  }
-                },
-                "name" : "textfield",
-                "shadows" : [
-                  {
-                    "y" : 2,
-                    "enabled" : false,
-                    "blur" : 5,
-                    "x" : 0,
-                    "__class" : "Shadow",
-                    "color" : "rgba(0,0,0,0.25)"
-                  }
-                ],
-                "id" : "%el5*jr;",
-                "constraintsLocked" : false,
-                "left" : 22,
-                "bottom" : null,
-                "height" : 104,
-                "opacity" : 1,
-                "width" : 356,
-                "widthFactor" : null,
-                "targetName" : "textfield",
-                "heightFactor" : null,
-                "editable" : false,
-                "visible" : true,
-                "centerAnchorY" : 0.1041095890410959,
-                "autoSize" : false
-              }
-            ],
-            "parentid" : "XkFtr,Kj",
-            "borderRight" : 1,
-            "name" : "Heading",
-            "height" : 730,
-            "borderWidth" : 1,
-            "top" : 1,
-            "borderTop" : 1,
-            "radiusTopRight" : 0,
-            "borderBottom" : 1,
-            "borderEnabled" : false,
-            "constraintsLocked" : false,
-            "right" : 0,
-            "radiusPerCorner" : false,
-            "centerAnchorY" : 0.5013698630136987,
-            "visible" : true,
-            "borderLeft" : 1,
-            "heightFactor" : null,
-            "radiusTopLeft" : 0,
-            "targetName" : "Heading",
-            "bottom" : -1,
-            "width" : 411
-          },
-          {
-            "__class" : "OvalNode",
-            "locked" : false,
-            "centerAnchorX" : 0.5012165450121655,
-            "parentid" : "XkFtr,Kj",
-            "rotation" : 0,
-            "top" : null,
-            "borderWidth" : 1,
-            "right" : null,
-            "borderEnabled" : false,
-            "children" : [
-
-            ],
-            "name" : "circlepulse",
-            "aspectRatioLocked" : true,
-            "fillColorEnabled" : true,
-            "id" : "$+$,uS@B",
-            "boxShadows" : [
-              {
-                "x" : 0,
-                "color" : "rgba(0,0,0,0.25)",
-                "enabled" : false,
-                "y" : 2,
-                "__class" : "BoxShadow",
-                "inset" : false,
-                "blur" : 5
-              }
-            ],
-            "constraintsLocked" : false,
-            "left" : null,
-            "bottom" : 152,
-            "height" : 126,
-            "opacity" : 0,
-            "width" : 126,
-            "widthFactor" : null,
-            "targetName" : "circlepulse",
-            "heightFactor" : null,
-            "fillColor" : "rgb(0, 170, 255)",
-            "borderColor" : "#222",
-            "centerAnchorY" : 0.7054794520547946,
-            "visible" : true,
-            "clip" : false
-          },
-          {
-            "__class" : "OvalNode",
-            "locked" : false,
-            "centerAnchorX" : 0.5012165450121655,
-            "parentid" : "XkFtr,Kj",
-            "rotation" : 0,
-            "top" : null,
-            "borderWidth" : 1,
-            "right" : null,
-            "borderEnabled" : false,
-            "children" : [
-              {
-                "radiusBottomLeft" : 0,
-                "rotation" : 0,
-                "fillColorEnabled" : false,
-                "id" : "FOCBS'bX",
-                "__class" : "ImageNode",
-                "fillColor" : "transparent",
-                "aspectRatioLocked" : true,
-                "imageBackgroundSize" : "Cover",
-                "widthFactor" : null,
-                "opacity" : 0,
-                "clip" : false,
-                "borderColor" : "#222",
-                "left" : 0,
-                "locked" : false,
-                "radius" : 0,
-                "boxShadows" : [
-                  {
-                    "x" : 0,
-                    "color" : "rgba(0,0,0,0.25)",
-                    "enabled" : false,
-                    "y" : 2,
-                    "__class" : "BoxShadow",
-                    "inset" : false,
-                    "blur" : 5
-                  }
-                ],
-                "centerAnchorX" : 0.5,
-                "borderPerSide" : false,
-                "radiusBottomRight" : 0,
-                "children" : [
-
-                ],
-                "image" : "877zREbTcAjrhIqoMHULm7WDJWbKuL3KRGWoyeuYYaf9uoiSRkBUG42kJpKgeehOm8jekVSxqMtw4mOm0g",
-                "parentid" : "Q`9[fic1",
-                "borderRight" : 1,
-                "name" : "isarvalley",
-                "height" : 126,
-                "borderWidth" : 1,
-                "top" : 0,
-                "borderTop" : 1,
-                "radiusTopRight" : 0,
-                "intrinsicWidth" : 318,
-                "borderBottom" : 1,
-                "originalFilename" : "isar-valley.png",
-                "borderEnabled" : false,
-                "constraintsLocked" : false,
-                "right" : 0,
-                "radiusPerCorner" : false,
-                "centerAnchorY" : 0.5,
-                "visible" : true,
-                "borderLeft" : 1,
-                "heightFactor" : null,
-                "intrinsicHeight" : 318,
-                "radiusTopLeft" : 0,
-                "targetName" : "isarvalley",
-                "bottom" : null,
-                "width" : 126
-              },
-              {
-                "__class" : "SVGNode",
-                "originalFilename" : "mic",
-                "locked" : false,
-                "centerAnchorX" : 0.5,
-                "parentid" : "Q`9[fic1",
-                "rotation" : 0,
-                "intrinsicWidth" : 24,
-                "top" : null,
-                "right" : null,
-                "intrinsicHeight" : 24,
-                "name" : "mic",
-                "shadows" : [
-                  {
-                    "y" : 2,
-                    "enabled" : false,
-                    "blur" : 5,
-                    "x" : 0,
-                    "__class" : "Shadow",
-                    "color" : "rgba(0,0,0,0.25)"
-                  }
-                ],
-                "aspectRatioLocked" : true,
-                "id" : ";FB'+WC_",
-                "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 14c1.66 0 2.99-1.34 2.99-3L15 5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 14 6.7 11H5c0 3.41 2.72 6.23 6 6.72V21h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z\"><\/path><\/svg>",
-                "constraintsLocked" : false,
-                "left" : null,
-                "bottom" : null,
-                "height" : 62,
-                "opacity" : 1,
-                "width" : 62,
-                "widthFactor" : null,
-                "targetName" : "mic",
-                "heightFactor" : null,
-                "fillColor" : "rgb(255, 255, 255)",
-                "visible" : true,
-                "centerAnchorY" : 0.5
-              },
-              {
-                "__class" : "SVGNode",
-                "originalFilename" : "close",
-                "locked" : false,
-                "centerAnchorX" : 0.503968253968254,
-                "parentid" : "Q`9[fic1",
-                "rotation" : 0,
-                "intrinsicWidth" : 24,
-                "top" : null,
-                "right" : null,
-                "intrinsicHeight" : 24,
-                "name" : "close",
-                "shadows" : [
-                  {
-                    "y" : 2,
-                    "enabled" : false,
-                    "blur" : 5,
-                    "x" : 0,
-                    "__class" : "Shadow",
-                    "color" : "rgba(0,0,0,0.25)"
-                  }
-                ],
-                "aspectRatioLocked" : true,
-                "id" : ";NpO^%>O",
-                "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\"><\/path><\/svg>",
-                "constraintsLocked" : false,
-                "left" : null,
-                "bottom" : null,
-                "height" : 51,
-                "opacity" : 0,
-                "width" : 51,
-                "widthFactor" : null,
-                "targetName" : "close_1",
-                "heightFactor" : null,
-                "fillColor" : "black",
-                "visible" : true,
-                "centerAnchorY" : 0.5
-              }
-            ],
-            "name" : "circle",
-            "aspectRatioLocked" : true,
-            "fillColorEnabled" : true,
-            "id" : "Q`9[fic1",
-            "boxShadows" : [
-              {
-                "x" : 0,
-                "color" : "rgba(0,0,0,0.25)",
-                "enabled" : false,
-                "y" : 2,
-                "__class" : "BoxShadow",
-                "inset" : false,
-                "blur" : 5
-              }
-            ],
-            "constraintsLocked" : false,
-            "left" : null,
-            "bottom" : 152,
-            "height" : 126,
-            "opacity" : 1,
-            "width" : 126,
-            "widthFactor" : null,
-            "targetName" : "circle",
-            "heightFactor" : null,
-            "fillColor" : "rgb(0, 170, 255)",
-            "borderColor" : "#222",
-            "centerAnchorY" : 0.7054794520547946,
-            "visible" : true,
-            "clip" : false
-          }
-        ],
-        "height" : 730,
-        "fillColor" : "rgb(0, 0, 0)",
-        "targetName" : "Intro",
-        "name" : "Intro"
-      },
       {
         "radiusBottomLeft" : 0,
         "rotation" : 0,
@@ -450,7 +17,7 @@
         "opacity" : 1,
         "clip" : false,
         "borderColor" : "#222",
-        "left" : -653,
+        "left" : 193,
         "locked" : false,
         "radius" : 0,
         "boxShadows" : [
@@ -576,6 +143,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : "pPJrz<A:",
                 "constraintsLocked" : true,
                 "left" : 0,
@@ -597,7 +167,7 @@
             "name" : "Button",
             "height" : 62,
             "borderWidth" : 1,
-            "top" : 1272,
+            "top" : 1282,
             "borderTop" : 1,
             "radiusTopRight" : 3,
             "borderBottom" : 1,
@@ -605,7 +175,7 @@
             "constraintsLocked" : true,
             "right" : 67,
             "radiusPerCorner" : false,
-            "centerAnchorY" : 0.8098197638284649,
+            "centerAnchorY" : 0.8160348042262274,
             "visible" : true,
             "borderLeft" : 1,
             "heightFactor" : null,
@@ -692,6 +262,9 @@
                 "color" : "rgba(0,0,0,0.25)"
               }
             ],
+            "children" : [
+
+            ],
             "id" : ">XE,HE.Z",
             "constraintsLocked" : true,
             "left" : 122,
@@ -718,6 +291,9 @@
             "top" : 691,
             "right" : 344,
             "intrinsicHeight" : 24,
+            "children" : [
+
+            ],
             "name" : null,
             "shadows" : [
               {
@@ -748,10 +324,10 @@
           {
             "__class" : "TextNode",
             "locked" : false,
-            "centerAnchorX" : 0.5,
+            "centerAnchorX" : 0.5231143552311436,
             "parentid" : "(2kWeO}\/",
             "rotation" : 0,
-            "top" : 1378,
+            "top" : 1421,
             "right" : 17,
             "styledText" : {
               "blocks" : [
@@ -809,56 +385,34 @@
                 {
                   "depth" : 0,
                   "inlineStyleRanges" : [
-
-                  ],
-                  "entityRanges" : [
-
-                  ],
-                  "data" : {
-                    "emptyStyle" : [
-                      "LETTERSPACING:0",
-                      "FONT:Roboto-Regular",
-                      "COLOR:rgba(76, 76, 76, 1.00)",
-                      "SIZE:14",
-                      "LINEHEIGHT:1.5",
-                      "ALIGN:center"
-                    ]
-                  },
-                  "text" : "",
-                  "key" : "2f9vq",
-                  "type" : "unstyled"
-                },
-                {
-                  "depth" : 0,
-                  "inlineStyleRanges" : [
                     {
-                      "length" : 18,
+                      "length" : 39,
                       "style" : "LETTERSPACING:0",
                       "offset" : 0
                     },
                     {
-                      "length" : 18,
+                      "length" : 39,
+                      "style" : "FONT:Roboto-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 39,
                       "style" : "COLOR:rgba(76, 76, 76, 1.00)",
                       "offset" : 0
                     },
                     {
-                      "length" : 18,
+                      "length" : 39,
                       "style" : "SIZE:14",
                       "offset" : 0
                     },
                     {
-                      "length" : 18,
+                      "length" : 39,
                       "style" : "LINEHEIGHT:1.5",
                       "offset" : 0
                     },
                     {
-                      "length" : 18,
+                      "length" : 39,
                       "style" : "ALIGN:center",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 18,
-                      "style" : "FONT:Roboto-Bold",
                       "offset" : 0
                     }
                   ],
@@ -875,7 +429,7 @@
                       "ALIGN:center"
                     ]
                   },
-                  "text" : "Silvia, @svorklab ",
+                  "text" : "Silvia, @svorklab Freelance UX Designer",
                   "key" : "21cb",
                   "type" : "unstyled"
                 },
@@ -883,23 +437,33 @@
                   "depth" : 0,
                   "inlineStyleRanges" : [
                     {
-                      "length" : 26,
-                      "style" : "ALIGN:center",
+                      "length" : 1,
+                      "style" : "LETTERSPACING:0",
                       "offset" : 0
                     },
                     {
-                      "length" : 26,
+                      "length" : 1,
                       "style" : "FONT:Roboto-Regular",
                       "offset" : 0
                     },
                     {
-                      "length" : 26,
+                      "length" : 1,
                       "style" : "COLOR:rgba(76, 76, 76, 1.00)",
                       "offset" : 0
                     },
                     {
-                      "length" : 26,
+                      "length" : 1,
                       "style" : "SIZE:14",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 1,
+                      "style" : "LINEHEIGHT:1.5",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 1,
+                      "style" : "ALIGN:center",
                       "offset" : 0
                     }
                   ],
@@ -908,119 +472,16 @@
                   ],
                   "data" : {
                     "emptyStyle" : [
-                      "ALIGN:center",
-                      "FONT:Roboto-Regular",
-                      "SIZE:12"
-                    ]
-                  },
-                  "text" : "Freelance UI \/ UX Designer",
-                  "key" : "bis4s",
-                  "type" : "unstyled"
-                },
-                {
-                  "depth" : 0,
-                  "inlineStyleRanges" : [
-                    {
-                      "length" : 29,
-                      "style" : "ALIGN:center",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 29,
-                      "style" : "FONT:Roboto-Regular",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 29,
-                      "style" : "COLOR:rgba(76, 76, 76, 1.00)",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 29,
-                      "style" : "SIZE:14",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 9,
-                      "style" : "BOLD",
-                      "offset" : 20
-                    }
-                  ],
-                  "entityRanges" : [
-                    {
-                      "length" : 9,
-                      "key" : 0,
-                      "offset" : 20
-                    }
-                  ],
-                  "data" : {
-                    "emptyStyle" : [
-                      "ALIGN:center",
+                      "LETTERSPACING:0",
                       "FONT:Roboto-Regular",
                       "COLOR:rgba(76, 76, 76, 1.00)",
-                      "SIZE:14"
+                      "SIZE:14",
+                      "LINEHEIGHT:1.5",
+                      "ALIGN:center"
                     ]
                   },
-                  "text" : " Ambassador Germany sketchapp",
-                  "key" : "fve8h",
-                  "type" : "unstyled"
-                },
-                {
-                  "depth" : 0,
-                  "inlineStyleRanges" : [
-                    {
-                      "length" : 30,
-                      "style" : "ALIGN:center",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 30,
-                      "style" : "FONT:Roboto-Regular",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 30,
-                      "style" : "COLOR:rgba(76, 76, 76, 1.00)",
-                      "offset" : 0
-                    },
-                    {
-                      "length" : 30,
-                      "style" : "SIZE:14",
-                      "offset" : 0
-                    }
-                  ],
-                  "entityRanges" : [
-
-                  ],
-                  "data" : {
-                    "emptyStyle" : [
-                      "ALIGN:center",
-                      "FONT:Roboto-Regular",
-                      "COLOR:rgba(76, 76, 76, 1.00)",
-                      "SIZE:14"
-                    ]
-                  },
-                  "text" : "Organizer Framer Meetup Munich",
-                  "key" : "fhc75",
-                  "type" : "unstyled"
-                },
-                {
-                  "depth" : 0,
-                  "inlineStyleRanges" : [
-
-                  ],
-                  "entityRanges" : [
-
-                  ],
-                  "data" : {
-                    "emptyStyle" : [
-                      "ALIGN:center",
-                      "FONT:Roboto-Regular",
-                      "SIZE:12"
-                    ]
-                  },
-                  "text" : "",
-                  "key" : "3kmr1",
+                  "text" : "&",
+                  "key" : "1ju7c",
                   "type" : "unstyled"
                 },
                 {
@@ -1078,32 +539,32 @@
                   "depth" : 0,
                   "inlineStyleRanges" : [
                     {
-                      "length" : 16,
+                      "length" : 3,
                       "style" : "LETTERSPACING:0",
                       "offset" : 0
                     },
                     {
-                      "length" : 16,
+                      "length" : 3,
                       "style" : "FONT:Roboto-Regular",
                       "offset" : 0
                     },
                     {
-                      "length" : 16,
+                      "length" : 3,
                       "style" : "COLOR:rgba(76, 76, 76, 1.00)",
                       "offset" : 0
                     },
                     {
-                      "length" : 16,
+                      "length" : 3,
                       "style" : "SIZE:14",
                       "offset" : 0
                     },
                     {
-                      "length" : 16,
+                      "length" : 3,
                       "style" : "LINEHEIGHT:1.5",
                       "offset" : 0
                     },
                     {
-                      "length" : 16,
+                      "length" : 3,
                       "style" : "ALIGN:center",
                       "offset" : 0
                     }
@@ -1121,7 +582,7 @@
                       "ALIGN:center"
                     ]
                   },
-                  "text" : "and sponsored by",
+                  "text" : "and",
                   "key" : "98qmt",
                   "type" : "unstyled"
                 },
@@ -1179,15 +640,7 @@
               ],
               "__class" : "StyledTextDraft",
               "entityMap" : {
-                "0" : {
-                  "type" : "LINK",
-                  "mutability" : "MUTABLE",
-                  "data" : {
-                    "rel" : "nofollow",
-                    "href" : "https:\/\/twitter.com\/sketchapp",
-                    "url" : "https:\/\/twitter.com\/sketchapp"
-                  }
-                }
+
               }
             },
             "name" : null,
@@ -1201,19 +654,22 @@
                 "color" : "rgba(0,0,0,0.25)"
               }
             ],
+            "children" : [
+
+            ],
             "id" : "4[Cj76U9",
             "constraintsLocked" : true,
-            "left" : 17,
+            "left" : 36,
             "bottom" : null,
-            "height" : 205,
+            "height" : 140,
             "opacity" : 1,
-            "width" : 377,
+            "width" : 358,
             "widthFactor" : null,
             "targetName" : null,
             "heightFactor" : null,
             "editable" : false,
             "visible" : true,
-            "centerAnchorY" : 0.9201367308887508,
+            "centerAnchorY" : 0.9266625233064015,
             "autoSize" : false
           },
           {
@@ -1425,6 +881,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : "K:5XcCS`",
                 "constraintsLocked" : true,
                 "left" : null,
@@ -1569,6 +1028,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : ")|(8HW|\/",
                 "constraintsLocked" : true,
                 "left" : null,
@@ -1661,6 +1123,9 @@
                     "__class" : "Shadow",
                     "color" : "rgba(0,0,0,0.25)"
                   }
+                ],
+                "children" : [
+
                 ],
                 "id" : "b%3-zy`{",
                 "constraintsLocked" : true,
@@ -1851,6 +1316,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : "F|g:HD_-",
                 "constraintsLocked" : true,
                 "left" : null,
@@ -1944,6 +1412,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : ":@2xu3ix",
                 "constraintsLocked" : true,
                 "left" : null,
@@ -2036,6 +1507,9 @@
                     "__class" : "Shadow",
                     "color" : "rgba(0,0,0,0.25)"
                   }
+                ],
+                "children" : [
+
                 ],
                 "id" : "CzUzTbq(",
                 "constraintsLocked" : true,
@@ -2242,6 +1716,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : "$L,MzPv*",
                 "constraintsLocked" : false,
                 "left" : null,
@@ -2436,6 +1913,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : "eQ*_{8N5",
                 "constraintsLocked" : false,
                 "left" : null,
@@ -2582,6 +2062,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : "I=W0oZp;",
                 "constraintsLocked" : true,
                 "left" : 125,
@@ -2674,6 +2157,9 @@
                     "__class" : "Shadow",
                     "color" : "rgba(0,0,0,0.25)"
                   }
+                ],
+                "children" : [
+
                 ],
                 "id" : "59L%u+hq",
                 "constraintsLocked" : true,
@@ -2818,6 +2304,9 @@
                     "__class" : "Shadow",
                     "color" : "rgba(0,0,0,0.25)"
                   }
+                ],
+                "children" : [
+
                 ],
                 "id" : "\/qMKn+lV",
                 "constraintsLocked" : true,
@@ -3125,6 +2614,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : "wVN=0|~T",
                 "constraintsLocked" : true,
                 "left" : 124,
@@ -3217,6 +2709,9 @@
                     "__class" : "Shadow",
                     "color" : "rgba(0,0,0,0.25)"
                   }
+                ],
+                "children" : [
+
                 ],
                 "id" : "^W3F$@mD",
                 "constraintsLocked" : true,
@@ -3311,6 +2806,9 @@
                     "color" : "rgba(0,0,0,0.25)"
                   }
                 ],
+                "children" : [
+
+                ],
                 "id" : "\/O9?[q:I",
                 "constraintsLocked" : true,
                 "left" : null,
@@ -3350,12 +2848,12 @@
             "width" : 413
           }
         ],
-        "parentid" : "Vilt]7t0",
+        "parentid" : "NL@qvi`x",
         "borderRight" : 1,
         "name" : "List",
         "height" : 1609,
         "borderWidth" : 1,
-        "top" : 1018,
+        "top" : -106,
         "borderTop" : 1,
         "radiusTopRight" : 0,
         "borderBottom" : 1,
@@ -3371,6 +2869,447 @@
         "targetName" : "List",
         "bottom" : null,
         "width" : 411
+      },
+      {
+        "id" : "XkFtr,Kj",
+        "__class" : "FrameNode",
+        "x" : 193,
+        "parentid" : "NL@qvi`x",
+        "width" : 411,
+        "y" : -836,
+        "deviceType" : null,
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "P<j.,)$-",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(0, 0, 0)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.4866180048661801,
+                "parentid" : "P<j.,)$-",
+                "rotation" : 0,
+                "top" : 24,
+                "right" : 33,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 20,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 20,
+                          "style" : "FONT:Roboto-Regular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 20,
+                          "style" : "ALIGN:left",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 20,
+                          "style" : "SIZE:26",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 20,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 20,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "FONT:Roboto-Regular",
+                          "ALIGN:left",
+                          "SIZE:26",
+                          "COLOR:rgb(255, 255, 255)",
+                          "LINEHEIGHT:1.2"
+                        ]
+                      },
+                      "text" : "Framer Meetup Munich",
+                      "key" : "fm4e6",
+                      "type" : "unstyled"
+                    },
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 17,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 17,
+                          "style" : "FONT:Roboto-Regular",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 17,
+                          "style" : "ALIGN:left",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 17,
+                          "style" : "SIZE:26",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 17,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 17,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "LETTERSPACING:0",
+                          "FONT:Roboto-Regular",
+                          "ALIGN:left",
+                          "SIZE:26",
+                          "COLOR:rgb(255, 255, 255)",
+                          "LINEHEIGHT:1.2"
+                        ]
+                      },
+                      "text" : "June 26th @Google",
+                      "key" : "8hj94",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : "textfield",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "children" : [
+
+                ],
+                "id" : "%el5*jr;",
+                "constraintsLocked" : false,
+                "left" : 22,
+                "bottom" : null,
+                "height" : 104,
+                "opacity" : 1,
+                "width" : 356,
+                "widthFactor" : null,
+                "targetName" : "textfield",
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.1041095890410959,
+                "autoSize" : false
+              }
+            ],
+            "parentid" : "XkFtr,Kj",
+            "borderRight" : 1,
+            "name" : "Heading",
+            "height" : 730,
+            "borderWidth" : 1,
+            "top" : 1,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5013698630136987,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "Heading",
+            "bottom" : -1,
+            "width" : 411
+          },
+          {
+            "__class" : "OvalNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5012165450121655,
+            "parentid" : "XkFtr,Kj",
+            "rotation" : 0,
+            "top" : null,
+            "borderWidth" : 1,
+            "right" : null,
+            "borderEnabled" : false,
+            "children" : [
+
+            ],
+            "name" : "circlepulse",
+            "aspectRatioLocked" : true,
+            "fillColorEnabled" : true,
+            "id" : "$+$,uS@B",
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 152,
+            "height" : 126,
+            "opacity" : 0,
+            "width" : 126,
+            "widthFactor" : null,
+            "targetName" : "circlepulse",
+            "heightFactor" : null,
+            "fillColor" : "rgb(0, 170, 255)",
+            "borderColor" : "#222",
+            "centerAnchorY" : 0.7054794520547946,
+            "visible" : true,
+            "clip" : false
+          },
+          {
+            "__class" : "OvalNode",
+            "locked" : false,
+            "centerAnchorX" : 0.5012165450121655,
+            "parentid" : "XkFtr,Kj",
+            "rotation" : 0,
+            "top" : null,
+            "borderWidth" : 1,
+            "right" : null,
+            "borderEnabled" : false,
+            "children" : [
+              {
+                "radiusBottomLeft" : 0,
+                "rotation" : 0,
+                "fillColorEnabled" : false,
+                "id" : "FOCBS'bX",
+                "__class" : "ImageNode",
+                "fillColor" : "transparent",
+                "aspectRatioLocked" : true,
+                "imageBackgroundSize" : "Cover",
+                "widthFactor" : null,
+                "opacity" : 0,
+                "clip" : false,
+                "borderColor" : "#222",
+                "left" : 0,
+                "locked" : false,
+                "radius" : 0,
+                "boxShadows" : [
+                  {
+                    "x" : 0,
+                    "color" : "rgba(0,0,0,0.25)",
+                    "enabled" : false,
+                    "y" : 2,
+                    "__class" : "BoxShadow",
+                    "inset" : false,
+                    "blur" : 5
+                  }
+                ],
+                "centerAnchorX" : 0.5,
+                "borderPerSide" : false,
+                "radiusBottomRight" : 0,
+                "children" : [
+
+                ],
+                "image" : "877zREbTcAjrhIqoMHULm7WDJWbKuL3KRGWoyeuYYaf9uoiSRkBUG42kJpKgeehOm8jekVSxqMtw4mOm0g",
+                "parentid" : "Q`9[fic1",
+                "borderRight" : 1,
+                "name" : "isarvalley",
+                "height" : 126,
+                "borderWidth" : 1,
+                "top" : 0,
+                "borderTop" : 1,
+                "radiusTopRight" : 0,
+                "intrinsicWidth" : 318,
+                "borderBottom" : 1,
+                "originalFilename" : "isar-valley.png",
+                "borderEnabled" : false,
+                "constraintsLocked" : false,
+                "right" : 0,
+                "radiusPerCorner" : false,
+                "centerAnchorY" : 0.5,
+                "visible" : true,
+                "borderLeft" : 1,
+                "heightFactor" : null,
+                "intrinsicHeight" : 318,
+                "radiusTopLeft" : 0,
+                "targetName" : "isarvalley",
+                "bottom" : null,
+                "width" : 126
+              },
+              {
+                "__class" : "SVGNode",
+                "originalFilename" : "mic",
+                "locked" : false,
+                "centerAnchorX" : 0.5,
+                "parentid" : "Q`9[fic1",
+                "rotation" : 0,
+                "intrinsicWidth" : 24,
+                "top" : null,
+                "right" : null,
+                "intrinsicHeight" : 24,
+                "children" : [
+
+                ],
+                "name" : "mic",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "aspectRatioLocked" : true,
+                "id" : ";FB'+WC_",
+                "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 14c1.66 0 2.99-1.34 2.99-3L15 5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 14 6.7 11H5c0 3.41 2.72 6.23 6 6.72V21h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z\"><\/path><\/svg>",
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : null,
+                "height" : 62,
+                "opacity" : 1,
+                "width" : 62,
+                "widthFactor" : null,
+                "targetName" : "mic",
+                "heightFactor" : null,
+                "fillColor" : "rgb(255, 255, 255)",
+                "visible" : true,
+                "centerAnchorY" : 0.5
+              },
+              {
+                "__class" : "SVGNode",
+                "originalFilename" : "close",
+                "locked" : false,
+                "centerAnchorX" : 0.503968253968254,
+                "parentid" : "Q`9[fic1",
+                "rotation" : 0,
+                "intrinsicWidth" : 24,
+                "top" : null,
+                "right" : null,
+                "intrinsicHeight" : 24,
+                "children" : [
+
+                ],
+                "name" : "close",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "aspectRatioLocked" : true,
+                "id" : ";NpO^%>O",
+                "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\"><\/path><\/svg>",
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : null,
+                "height" : 51,
+                "opacity" : 0,
+                "width" : 51,
+                "widthFactor" : null,
+                "targetName" : "close_1",
+                "heightFactor" : null,
+                "fillColor" : "black",
+                "visible" : true,
+                "centerAnchorY" : 0.5
+              }
+            ],
+            "name" : "circle",
+            "aspectRatioLocked" : true,
+            "fillColorEnabled" : true,
+            "id" : "Q`9[fic1",
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 152,
+            "height" : 126,
+            "opacity" : 1,
+            "width" : 126,
+            "widthFactor" : null,
+            "targetName" : "circle",
+            "heightFactor" : null,
+            "fillColor" : "rgb(0, 170, 255)",
+            "borderColor" : "#222",
+            "centerAnchorY" : 0.7054794520547946,
+            "visible" : true,
+            "clip" : false
+          }
+        ],
+        "height" : 730,
+        "fillColor" : "rgb(0, 0, 0)",
+        "targetName" : "Intro",
+        "name" : "Intro"
       }
     ]
   }

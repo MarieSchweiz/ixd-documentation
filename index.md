@@ -83,9 +83,9 @@ A suggestion which structure I'm working with can be found here but in general a
 
 **Objective:** Inform potential attendees about what is happening (a meetup about Framer) when (June 26th) and where (at Google Munich)
 
-Scenario: As soon as the app opens a button is offering speech input. When tapping it, our [feature animation](#feature-animation) asks you to say something. Tapping the voice button will activate it and it starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
+**Scenario:** As soon as the app opens a button is offering speech input. When tapping it, our [feature animation](#feature-animation) asks you to say something. Tapping the voice button will activate it and it starts pulsing. The pulse has to be visible enough to get attention but should [not trigger emotions such as stress or hurry](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information). A calming mindset is recommended.
 
-Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information), one button works just fine! Start screen is a bit boring.
+**Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/06/13/thefirsttest.html#1-framer-meetup-information)**, one button works just fine! Start screen is a bit boring.
 
 #### Measurements
 
@@ -102,10 +102,10 @@ Our [test confirmed](https://marieschweiz.github.io/ixd-documentation/misc/2017/
 
 Speech recognition is a highly demanded feature and Framer is able to do that. A browsers speech api ([W3c Statement](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html) on speech specification) can be accessed via Framer and listen to a user's voice. [Example for Google Voice input](https://github.com/baiIey/framer-speech-api) Framer wrote also an article about how to [build Speech recognition](https://blog.framer.com/prototyping-speech-recognition-in-framer-js-9cbbbd01757)
 
-Scenario: A user says "hello" and the speech recognition will display what they said, wait for 10 seconds and provide the schedule overview.
+**Scenario:** A user says "hello" and the speech recognition will display what they said, wait for 10 seconds and provide the schedule overview.
 
 
-To be tested: By letting them go through with any voice input, Framer is just showing off. Our theory: accuracy isn't necessary to engage a user.
+**To be tested:** By letting them go through with any voice input, Framer is just showing off. Our theory: accuracy isn't necessary to engage a user.
 
 #### Measurements
 
@@ -120,7 +120,7 @@ curve: "easeOut"
 
 <figure class="prototype-right">
 <img class="imgfit" src="materials/sayit-list.gif" />
-<a href="https://framer.cloud/EXpCI" target="_blanc">Open prototype</a>
+<a href="/materials/sayit-listview.framer/index.html" target="_blanc">Open prototype</a>
 </figure>
 **Objective:** Let the user read and decide fast about the meetup's schedule and content and what they are interested in or whether they should join at all.
 

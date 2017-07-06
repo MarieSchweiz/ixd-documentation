@@ -224,7 +224,7 @@ circle.onClick (event,state) ->
 				textfield.html = result[0].transcript
 				
 				if result[0].transcript == "hello"
-					print "so"
+					
 				
 					# What happens when a speech result arrived
 					
