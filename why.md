@@ -4,7 +4,7 @@ title: How & Why documentation
 permalink: /why/
 ---
 
-Documentation is an underestimated discipline in almost every company. Allthough we know documentation is able to help a team, projects and companies in many ways. Yet we seem to ignore its power and keep postboning it to the very last moment. The "Framer Munich Meetup Agenda App" is an example of how to do documentation first and this can:
+Documentation is an underestimated discipline in almost every company. Allthough we know documentation is able to help a team, projects and companies in many ways. Yet we seem to ignore its power and keep postponing it to the very last moment. The ["Framer Munich Meetup Agenda App"](../) is an example of how to do documentation first and this can:
 
 * Minimize meetings
 * faster onboarding individuals
