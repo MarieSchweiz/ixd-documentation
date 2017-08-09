@@ -13,9 +13,9 @@ layout: start
 ## Main concept
 
 <figure class="prototype-right">
-<a href="https://framer.cloud/KkjHL" target="_blanc">
-<iframe src="https://framer.cloud/KkjHL"></iframe>
-Open in new tap</a>
+<iframe src="https://framer.cloud/KkjHL" style="min-height:500px;width:100%;"></iframe>
+
+<a href="https://framer.cloud/KkjHL" target="_blanc" style="display:block;text-align:center;">Open in new tap</a>
 </figure>
 
 With only 3 views a Framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and will be enjoyable as a Framer prototype. Information will be structured by importance, so users can get everything about the meetup with just two or three touches.
