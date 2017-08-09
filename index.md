@@ -70,7 +70,7 @@ Usecases: Feel free to add some
 
 ## Features
 
-A suggestion which structure I'm working with can be found here but in general a recommendation is to have a structure and keep it.
+**Note:** A suggestion which structure I'm working with, can be found here. In general my recommendation is to have a structure and keep it.
 
 ### Meetup Information
 
