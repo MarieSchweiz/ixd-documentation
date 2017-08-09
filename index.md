@@ -158,7 +158,7 @@ In a non scrolled state, the sponsor button is looking prominent and big with 11
 
 The idea is to have a prototype available for sharing. By definition this project is in a published state if a Framer prototype is available:
 
-* As [URL via framercloud](https://framer.cloud/yrtrK)
+* As [URL via framercloud](https://framer.cloud/KkjHL)
 * As [GIF for social media advertising](materials/Sayitwithframer3.gif)
 * As [documentation](#)
 
