@@ -10,7 +10,6 @@ scroll = new ScrollComponent
 	width: Screen.width
 	y: 731
 	backgroundColor: "#fff"
-	
 
 # configure the scroll view
 
@@ -52,7 +51,7 @@ Headingparent = new Layer
 
 Heading.parent = Headingparent
 circle.parent = Headingparent
-textfield.parent = Headingparent
+#title.parent = Headingparent
 circlepulse.parent = Headingparent
 
 # Different states for the prototypes interaction
@@ -168,7 +167,20 @@ Intro.states =
 	listening:
 		backgroundColor:"#4386FA"
 
-textfield.states =
+	
+title = new TextLayer
+    text: "Framer Meetup Munich June 26th @Google"
+    fontFamily: "Roboto, sans-serif"
+    fontWeight: 200
+    width: 359
+    height: 89
+    fontSize: 26
+    fontWeight: 600
+    color: "#fff"	
+    x: 22
+    y: 24
+
+title.states =
 	default:
 		opacity: 1
 	listening:
@@ -176,7 +188,7 @@ textfield.states =
 	shrink:
 		opacity: 1
 		scale: 0.8
-		
+  
 		
 		
 # Initial Animation, open prototype
@@ -199,9 +211,9 @@ circle.onClick (event,state) ->
 		#textfield.animate "listening"
 		
 		# eqip a textbox for speech input
-		textfield.html = "Speak now"
-		textfield.style.fontFamily = "Roboto, sans-serif"
-		textfield.style.lineHeight = 1.2
+		title.html = "Speak now"
+		title.style.fontFamily = "Roboto, sans-serif"
+		title.style.lineHeight = 1.2
 		
 		
 		## Get the recognizer working thx Silvia for the Help <3
@@ -221,7 +233,7 @@ circle.onClick (event,state) ->
 			result = event.results[event.resultIndex]
 			if result.isFinal
 			
-				textfield.html = result[0].transcript
+				title.html = result[0].transcript
 				
 				if result[0].transcript == "hello"
 					
@@ -234,11 +246,11 @@ circle.onClick (event,state) ->
 					circle.animate "centerlist"
 					isarvalley.animate "visible"
 					prototislistening = false
-					textfield.html = "Framer Meetup Munich June 26th @Google"
+					title.html = "Framer Meetup Munich June 26th @Google"
 					circlepulse.destroy()
 
 			else
-				textfield.html = result[0].transcript
+				title.html = result[0].transcript
 		
 		# Start it
 		recognizer.start()
@@ -265,7 +277,7 @@ circle.onClick (event,state) ->
 		#textfield.animate "default"
 		
 		# eqip the header with its original text
-		textfield.html = "Framer Meetup Munich June 26th @Google"
+		title.html = "Framer Meetup Munich June 26th @Google"
 		
 		
 scroll.on Events.Scroll,(event, layer) ->

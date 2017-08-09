@@ -12,11 +12,6 @@ layout: start
 
 ## Main concept
 
-<figure class="prototype-right">
-<iframe src="https://framer.cloud/yrtrK"></iframe>
-<a href="https://framer.cloud/yrtrK" target="_blanc">Open in new tap</a>
-</figure>
-
 With only 3 views a Framer prototype will inform about the upcoming [Framer Munich Meetup](https://www.meetup.com/de-DE/meetup-group-framerjs-munich/) and will be enjoyable as a Framer prototype. Information will be structured by importance, so users can get everything about the meetup with just two or three touches.
 
 1. **[Meetup Information](#meetup-information):** First priority is **What, When and Where**. Users should be able to figure out their availability. 
@@ -26,7 +21,6 @@ With only 3 views a Framer prototype will inform about the upcoming [Framer Muni
 3. **[Schedule Overview](#schedule-overview):** **information to empower their decision**
 
 <img src="materials/framer-app-flow.png" class="imgfit"/> 
-
 
 ### MVP definition
 The first prototype will cover the most important information for attendees and one featured animation:
@@ -77,7 +71,7 @@ A suggestion which structure I'm working with can be found here but in general a
 <figure class="prototype-right">
 <img class="imgfit" src="materials/sayit-Meetupintro.gif" />
 <caption>
-    <a href="https://framer.cloud/Sickv" target="_blanc">Open prototype</a> or <a href="materials/Measurements-Meetup-Intro.png" target="_blanc">measurements</a>. <a href="materials/Feature_Meetupintro/">Versions</a>
+    <a href="materials/Measurements-Meetup-Intro.png" target="_blanc">measurements</a>
 </caption>
 </figure>
 
@@ -120,7 +114,6 @@ curve: "easeOut"
 
 <figure class="prototype-right">
 <img class="imgfit" src="materials/sayit-list.gif" />
-<a href="/materials/sayit-listview.framer/index.html" target="_blanc">Open prototype</a>
 </figure>
 **Objective:** Let the user read and decide fast about the meetup's schedule and content and what they are interested in or whether they should join at all.
 
